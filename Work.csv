@@ -1,0 +1,1201 @@
+,age,income,hours_worked,stress_level,gender,smoker,education,job_sector,doctor_visits,sick_days,high_stress
+1,46.9,20981,37.2,50.1,Male,Yes,High School,Education,0,1,No
+2,35,86007,42,47.3,Female,No,College,Education,0,0,Yes
+3,33.5,62126,39.5,50.7,Female,No,High School,Retail,0,0,No
+4,43.8,36758,34.6,49.2,Male,No,High School,Health,0,1,No
+5,21,54404,45.5,51.2,Female,Yes,High School,Education,1,1,Yes
+6,49,27894,42.6,56.6,Female,Yes,College,Tech,3,0,No
+7,35.9,62511,42.1,44.4,Female,No,High School,Retail,1,1,Yes
+8,40.7,25915,34,49.8,Male,No,High School,Tech,0,1,No
+9,52.9,61366,40.1,38.4,Male,Yes,College,Health,1,3,No
+10,31,31358,40.3,48.8,Male,Yes,Graduate,Education,0,0,Yes
+11,29.6,63989,34,47.9,Female,No,High School,Retail,0,0,No
+12,31.9,45717,36.7,61.7,Female,Yes,Graduate,Education,1,1,No
+13,19.5,35779,41.2,51.9,Male,No,Graduate,Retail,1,0,Yes
+14,35.4,62427,37.7,35,Female,No,High School,Education,0,0,Yes
+15,25.7,56143,31.9,65,Female,No,High School,Health,0,0,No
+16,63.9,31300,38.1,51.7,Male,No,College,Education,1,0,No
+17,46.4,42049,39.1,70.3,Male,No,High School,Tech,0,1,No
+18,30.3,52755,41.4,47.2,Male,Yes,Graduate,Retail,0,1,Yes
+19,58.4,55137,39,59.5,Female,No,High School,Education,2,2,No
+20,60.8,28177,42.2,53.6,Female,Yes,High School,Retail,2,2,Yes
+21,53.4,58239,38.8,33.9,Female,Yes,High School,Retail,1,0,Yes
+22,16.5,41677,45.8,58.8,Female,No,College,Retail,0,0,No
+23,22.3,43338,33.7,35.9,Male,Yes,High School,Tech,0,0,Yes
+24,34.1,28243,43.6,63.8,Female,No,Graduate,Tech,0,1,No
+25,42.2,84774,36.9,42.3,Male,No,Graduate,Health,0,0,No
+26,32.1,65497,38.5,37.1,Male,Yes,High School,Health,0,0,No
+27,30,25725,38.2,39.9,Male,No,Graduate,Retail,0,0,Yes
+28,35.3,57298,37.2,51.8,Male,No,College,Retail,1,0,Yes
+29,24,63219,33.1,55.5,Female,No,College,Tech,0,0,Yes
+30,21.5,43947,41.8,69.9,Female,Yes,Graduate,Education,0,3,No
+31,34.7,29629,38.6,52.4,Male,Yes,Graduate,Retail,0,2,No
+32,29.8,44700,46.8,65.8,Female,No,College,Education,1,0,Yes
+33,43.6,38784,39.6,67.8,Female,Yes,College,Tech,2,0,No
+34,35.3,43993,46.7,54.4,Male,No,High School,Tech,1,0,No
+35,41.2,43535,43.6,68.7,Female,Yes,College,Education,2,0,No
+36,48.6,35953,49.4,50.1,Female,Yes,Graduate,Tech,1,0,No
+37,23.1,32369,45.2,51.5,Female,No,Graduate,Education,1,0,No
+38,31.5,46424,41.4,33.5,Female,Yes,High School,Tech,0,0,Yes
+39,23.4,56622,35.8,60.8,Female,Yes,Graduate,Retail,0,0,Yes
+40,42,43583,43.3,47,Female,Yes,College,Tech,0,0,Yes
+41,37.6,76046,32.1,35.6,Male,No,Graduate,Education,0,0,Yes
+42,26.9,48623,51.1,33.3,Female,Yes,High School,Tech,0,0,Yes
+43,42.7,55399,33.3,45.6,Female,No,Graduate,Tech,0,0,No
+44,34.6,45374,42.6,49.9,Male,Yes,High School,Health,2,1,Yes
+45,29.2,70120,25.9,62.2,Male,No,College,Retail,1,2,No
+46,35.7,12967,35.2,53.5,Female,Yes,College,Health,1,0,No
+47,48.5,23089,45.6,60.6,Female,No,High School,Health,1,0,Yes
+48,37.9,70137,37.1,38.4,Female,No,High School,Retail,0,0,No
+49,30.4,27534,39.7,52.7,Male,Yes,High School,Health,0,0,No
+50,21.1,48177,38.7,61.7,Female,Yes,Graduate,Tech,0,1,Yes
+51,30.9,35591,39.2,37.3,Female,Yes,High School,Education,0,0,Yes
+52,27.4,47229,40.3,66.9,Male,Yes,Graduate,Health,2,2,Yes
+53,17.3,38800,46.2,68.2,Female,No,Graduate,Retail,0,2,Yes
+54,25.6,19309,46.4,44.9,Male,Yes,College,Tech,2,0,No
+55,37,45888,42.8,64.7,Female,No,Graduate,Retail,1,0,Yes
+56,38.6,58854,44.5,44.6,Female,Yes,College,Health,1,1,Yes
+57,37.7,33094,41,50,Male,Yes,College,Education,0,0,No
+58,28.3,61335,45.4,53.1,Male,Yes,Graduate,Tech,0,1,Yes
+59,24.7,67065,37.5,40.8,Female,Yes,High School,Retail,0,1,Yes
+60,55.1,45119,38.2,37.9,Male,No,High School,Retail,0,0,Yes
+61,14.8,69022,45,59.7,Male,Yes,Graduate,Tech,0,0,No
+62,37.6,45484,44.1,49.8,Male,Yes,College,Retail,1,0,No
+63,42.5,58638,37.5,48.7,Male,No,Graduate,Retail,0,2,Yes
+64,47.1,38972,37.2,51.4,Female,Yes,College,Health,2,1,No
+65,29.5,62814,42.5,64.5,Male,Yes,College,Health,2,0,Yes
+66,41.4,20554,39.5,61.7,Female,Yes,Graduate,Health,1,1,No
+67,44.4,16057,35.5,51.2,Female,Yes,Graduate,Tech,1,0,No
+68,28.1,60609,40.5,50.9,Male,No,College,Health,0,0,No
+69,33.5,59409,42.7,35.3,Female,No,Graduate,Tech,0,0,No
+70,39.3,54486,43.5,48.6,Female,No,High School,Health,1,0,No
+71,38.9,64976,44.6,65.5,Female,Yes,Graduate,Education,2,1,Yes
+72,43.3,31562,43.9,55.8,Male,Yes,Graduate,Tech,0,0,No
+73,30.3,42808,33.1,39.2,Female,Yes,Graduate,Health,1,2,No
+74,38.1,63217,37.6,61.6,Female,Yes,College,Education,1,1,Yes
+75,27.3,48613,42.3,52.4,Female,No,High School,Education,0,2,No
+76,30.5,60514,40.6,39.8,Male,No,High School,Education,0,0,Yes
+77,29.1,42905,40.7,58.6,Male,No,High School,Tech,0,0,No
+78,26.9,47620,34.5,47.3,Male,Yes,College,Education,0,0,No
+79,39.7,63071,28.1,45.7,Male,Yes,Graduate,Education,0,2,No
+80,32.8,59473,41.3,66.6,Female,Yes,College,Retail,3,2,Yes
+81,22.1,49489,33.6,53.4,Female,Yes,College,Tech,0,0,Yes
+82,37.7,80919,37.5,40.9,Male,Yes,Graduate,Retail,0,1,Yes
+83,12.6,66111,37.8,65.4,Male,No,College,Retail,0,0,No
+84,38.3,54675,39.7,29.1,Male,Yes,Graduate,Education,1,1,Yes
+85,22.6,46893,34.4,55.8,Male,No,High School,Retail,0,0,Yes
+86,51.9,50435,34,47.3,Female,No,High School,Health,0,0,No
+87,30.1,64770,51,43.4,Male,No,College,Retail,1,0,Yes
+88,29,47712,37.6,49.6,Male,Yes,High School,Health,2,0,No
+89,37.9,55834,49.2,61.1,Female,No,Graduate,Health,1,0,Yes
+90,50,49972,34,61.3,Male,No,High School,Retail,2,1,No
+91,34.9,52724,41.6,66.8,Female,Yes,High School,Education,0,1,Yes
+92,36.9,56338,43.7,51,Male,No,High School,Education,0,0,No
+93,30.9,81011,41.8,42.6,Male,Yes,High School,Retail,0,1,No
+94,36.8,28656,34.8,48.1,Female,No,High School,Health,0,0,No
+95,24.8,51371,39.8,68,Male,Yes,Graduate,Education,0,0,Yes
+96,32.3,53074,45.2,71.1,Male,No,Graduate,Health,1,3,Yes
+97,19.9,36728,37.6,31.3,Male,No,College,Tech,0,0,Yes
+98,34.7,52215,44.8,39.5,Male,No,High School,Health,0,1,No
+99,31.9,47684,43.5,40.9,Female,Yes,Graduate,Education,0,0,Yes
+100,31.8,50829,38.7,29.1,Male,No,High School,Tech,0,1,Yes
+101,27.3,61918,46.4,31.2,Female,No,College,Retail,0,3,Yes
+102,34.9,49166,44.5,43.1,Female,No,Graduate,Tech,0,0,Yes
+103,23.8,48929,34.2,58.2,Female,Yes,College,Health,1,1,Yes
+104,36.7,40800,50.1,55.2,Male,Yes,College,Retail,0,1,Yes
+105,43.1,47018,47.4,44.1,Female,Yes,College,Education,0,0,Yes
+106,44,38960,32.1,59.8,Female,No,High School,Health,0,0,No
+107,17.3,32265,26.7,44.7,Male,Yes,High School,Health,0,1,No
+108,42.2,46756,46.1,49.4,Male,Yes,Graduate,Health,1,4,Yes
+109,44.9,30956,42.6,42,Female,No,College,Education,0,1,Yes
+110,33.8,49789,43.6,51,Male,No,High School,Education,0,1,Yes
+111,38.6,59493,45.3,51,Female,No,Graduate,Education,0,0,No
+112,41,43937,37.2,43.6,Male,No,College,Education,0,1,No
+113,43.6,28145,35.2,36.3,Female,Yes,High School,Education,0,0,No
+114,28.3,45250,35.9,50.5,Female,Yes,High School,Education,0,1,Yes
+115,34.1,55940,39.9,47.4,Male,Yes,High School,Tech,2,0,No
+116,15.1,68286,40.1,48.5,Female,No,College,Tech,0,0,No
+117,55.7,49265,46.6,45.2,Female,Yes,College,Education,1,1,Yes
+118,26.8,32999,46.9,41.7,Female,No,College,Tech,0,1,No
+119,41.6,44632,37.7,64.1,Female,No,College,Retail,0,1,No
+120,23.6,58260,46.9,59.8,Male,Yes,High School,Education,0,0,No
+121,33,60842,41.1,54.1,Male,No,High School,Health,0,1,Yes
+122,49.2,61509,53.3,60.3,Male,Yes,College,Tech,0,0,Yes
+123,30.6,53800,42.2,49.4,Female,No,College,Tech,0,0,No
+124,52.2,81158,39.8,49.1,Male,Yes,Graduate,Tech,0,2,No
+125,35.8,45031,42.1,55.1,Male,No,College,Education,0,2,Yes
+126,20,49756,33.5,36,Male,No,High School,Health,0,0,No
+127,39.8,27187,36.1,80.2,Male,Yes,Graduate,Education,3,0,Yes
+128,12.9,46766,35.5,45.6,Male,No,High School,Tech,0,0,Yes
+129,30.6,49506,44.6,67.2,Female,Yes,College,Education,0,1,No
+130,34.3,57403,40.2,47.6,Female,No,Graduate,Education,0,0,No
+131,38.3,45645,34,50.3,Female,No,College,Health,0,0,No
+132,43.6,44603,30.7,48,Male,No,Graduate,Education,0,0,No
+133,36.5,53165,35.2,63.6,Male,No,Graduate,Education,0,0,No
+134,39.1,60587,37.7,49.1,Female,No,College,Tech,0,0,No
+135,23.6,59480,40.1,54.1,Female,Yes,Graduate,Health,0,0,Yes
+136,45.8,57462,40.8,60.8,Male,No,High School,Education,1,0,Yes
+137,41.2,51447,35.4,54.4,Female,Yes,Graduate,Retail,0,1,Yes
+138,41.8,73893,41.2,60,Male,Yes,College,Health,0,1,No
+139,16.5,45458,43.9,49.9,Male,No,High School,Education,1,0,No
+140,56.7,33516,40.8,41.6,Male,Yes,High School,Tech,1,0,No
+141,20.5,64346,40.1,37.4,Male,Yes,High School,Health,0,0,Yes
+142,27.5,33300,31.8,44.1,Male,Yes,Graduate,Education,0,0,No
+143,31.4,40696,42,48.7,Male,Yes,College,Education,0,0,No
+144,48.1,69566,38.3,50.1,Male,No,College,Health,2,1,Yes
+145,46.7,75810,43.5,64.2,Male,Yes,Graduate,Retail,0,1,Yes
+146,33.8,38134,45.6,45.8,Male,Yes,College,Retail,0,2,Yes
+147,41.2,66778,28.2,52.2,Female,No,College,Education,0,0,No
+148,28.9,47663,36.3,47.1,Male,No,High School,Retail,1,0,No
+149,18.6,49267,49.7,36.1,Female,No,Graduate,Tech,0,0,No
+150,12,43958,39.7,44.6,Male,No,Graduate,Tech,0,0,No
+151,37.1,28780,35.7,44.7,Male,Yes,College,Tech,1,0,Yes
+152,33.9,56314,34.5,46.7,Female,Yes,College,Health,0,2,No
+153,22.1,40436,36.8,57,Male,No,High School,Tech,1,0,No
+154,37.4,64455,36.4,42.6,Female,Yes,High School,Health,1,0,No
+155,38.5,48092,40.8,37.8,Male,No,High School,Education,0,0,No
+156,67.2,40282,40.8,42.4,Female,No,High School,Tech,3,0,No
+157,27.4,46647,40.5,50,Male,No,College,Retail,0,3,Yes
+158,26.3,57630,46.1,46.4,Female,No,Graduate,Education,0,0,Yes
+159,39.3,46358,36.5,49.2,Female,Yes,High School,Retail,0,2,Yes
+160,23.4,47830,37,47,Female,No,High School,Tech,0,0,Yes
+161,33.1,42602,44.1,53.7,Male,No,High School,Education,2,0,No
+162,17.3,40057,39.9,44.7,Male,No,High School,Tech,0,0,Yes
+163,43,51658,43.7,65.7,Female,No,College,Education,0,0,No
+164,29.6,39779,33.9,38.5,Female,No,High School,Education,0,1,Yes
+165,46.5,56898,53.2,38,Female,No,High School,Health,0,0,Yes
+166,27.7,48993,28.7,47.3,Male,No,High School,Retail,0,0,No
+167,22.9,77455,39.8,32.7,Female,No,College,Tech,0,0,Yes
+168,35,70671,44.8,35.1,Female,Yes,High School,Retail,0,0,No
+169,40.3,42590,40,46,Male,No,High School,Health,0,0,Yes
+170,54.7,65348,38.8,52.8,Female,Yes,Graduate,Retail,1,1,No
+171,26.7,48581,39.3,44.2,Male,Yes,College,Retail,0,1,Yes
+172,11.9,61462,45,50.9,Male,Yes,High School,Education,0,0,Yes
+173,41.4,48507,35.6,39.4,Male,No,College,Health,0,0,No
+174,39.3,35518,45,37.2,Female,Yes,Graduate,Education,1,0,Yes
+175,36.9,20137,41.4,64.5,Female,Yes,Graduate,Retail,2,2,No
+176,6.7,58849,38.9,61.2,Male,No,Graduate,Tech,0,0,No
+177,38.2,43571,39.8,46.5,Male,No,College,Retail,0,1,No
+178,16.7,15242,38.7,58.2,Male,Yes,Graduate,Tech,1,1,No
+179,27.7,44918,41.9,56.7,Female,Yes,College,Retail,1,1,No
+180,29.1,47912,42.1,61.2,Male,Yes,Graduate,Tech,0,0,No
+181,40.6,47436,31.1,45.9,Female,Yes,High School,Tech,1,0,No
+182,32.7,59246,34.3,56.9,Male,Yes,Graduate,Education,0,2,No
+183,34.6,42157,52.1,54.3,Female,Yes,Graduate,Education,1,0,Yes
+184,25.7,6857,38.9,67.7,Female,Yes,High School,Education,0,0,No
+185,45.1,82790,40.6,38.4,Male,No,High School,Education,0,0,Yes
+186,38.1,55061,37.4,57.1,Male,No,College,Education,0,0,No
+187,32.1,61649,43.7,46.5,Female,No,Graduate,Education,0,0,Yes
+188,41.3,58710,48.9,43.1,Male,No,High School,Retail,0,0,Yes
+189,45.6,59395,41.9,62.7,Male,No,College,Education,0,0,Yes
+190,27.7,38754,39.6,46.3,Male,Yes,College,Education,1,0,No
+191,32.2,53628,46.9,52.9,Male,No,Graduate,Retail,1,0,Yes
+192,33.4,92441,49,17.2,Female,Yes,College,Education,0,0,Yes
+193,53.9,56833,40.6,18.1,Female,No,High School,Retail,1,0,No
+194,43.2,56109,36.7,62.9,Female,No,College,Retail,1,1,Yes
+195,40.4,50233,43.1,62.6,Female,Yes,College,Tech,0,0,No
+196,41,47972,33.7,35.9,Female,Yes,High School,Tech,0,0,No
+197,38.9,69660,37.5,41.8,Male,Yes,College,Education,2,1,Yes
+198,41.1,33549,47.9,51.1,Female,Yes,Graduate,Retail,1,1,Yes
+199,39.9,37988,42.5,38.7,Female,Yes,Graduate,Retail,1,1,Yes
+200,44.6,57258,50.4,67.1,Female,Yes,College,Health,1,0,Yes
+201,58,76602,43.1,60.9,Female,No,High School,Tech,1,0,Yes
+202,43.5,43743,42.5,47.5,Male,No,Graduate,Tech,1,0,Yes
+203,33.9,33642,44.6,48.7,Male,Yes,High School,Tech,2,1,Yes
+204,39.8,57561,48.3,42.8,Female,Yes,Graduate,Education,1,0,Yes
+205,34.5,55918,39.2,53.7,Male,Yes,College,Education,1,0,No
+206,52.8,55362,30.9,54.9,Female,No,College,Education,0,0,No
+207,36.3,39291,36,48,Male,No,High School,Education,0,0,Yes
+208,38.2,59176,32.6,50.9,Male,Yes,High School,Education,0,0,No
+209,27.5,23613,38.6,54.6,Female,Yes,College,Education,0,0,Yes
+210,28,56934,46.8,54.4,Male,Yes,College,Retail,0,1,Yes
+211,15.3,47496,41.6,48.3,Female,Yes,College,Education,0,0,Yes
+212,34.5,33463,44.9,48.3,Female,No,Graduate,Tech,0,0,Yes
+213,25.1,64436,48.1,49,Male,No,High School,Tech,2,0,No
+214,37.7,55646,44.2,49.9,Female,No,High School,Tech,0,0,No
+215,51.2,35553,35,49.6,Female,No,Graduate,Tech,1,0,No
+216,43.6,55036,41.5,46.8,Male,No,Graduate,Tech,0,0,Yes
+217,28.5,49399,43.1,54.4,Female,No,High School,Tech,0,0,Yes
+218,54.5,30475,43.6,63.2,Male,Yes,College,Health,4,3,Yes
+219,47.7,18389,41.9,58,Female,No,High School,Health,0,1,Yes
+220,20.9,32726,42.1,42.9,Female,No,Graduate,Health,0,0,No
+221,18.2,53392,41.1,43,Male,No,College,Tech,1,0,Yes
+222,27,37715,36.6,62.7,Male,Yes,Graduate,Education,1,0,No
+223,32,51005,50.8,68.6,Male,No,High School,Retail,0,0,Yes
+224,27.9,57651,36.2,45.3,Male,Yes,College,Tech,2,0,No
+225,38.5,18834,43.6,60.4,Female,Yes,College,Health,1,0,No
+226,37.2,53059,35.5,39.1,Male,Yes,College,Health,0,0,No
+227,34.7,70233,31.2,58,Female,Yes,High School,Health,1,1,Yes
+228,33.3,38998,38.4,47.2,Male,No,High School,Tech,0,1,No
+229,21.1,62812,41.8,71.4,Female,No,High School,Health,1,2,No
+230,25,32010,40.9,48,Male,Yes,College,Health,0,1,No
+231,53.6,49839,42.4,61.8,Male,Yes,College,Education,1,1,Yes
+232,45.7,50564,41.3,62.3,Female,No,High School,Health,0,0,Yes
+233,42.4,51866,32.1,53.3,Female,Yes,Graduate,Tech,2,0,Yes
+234,29.5,30086,47.1,42,Female,No,College,Health,0,0,No
+235,53.1,33970,37.9,54.5,Male,Yes,College,Tech,1,1,No
+236,20.1,34348,42.8,40.1,Female,No,College,Retail,0,1,No
+237,47.5,56163,50.4,54,Male,No,Graduate,Health,0,1,Yes
+238,41.2,60834,47.5,64.6,Female,Yes,Graduate,Health,0,2,No
+239,36.8,41435,51.2,52.4,Female,Yes,College,Education,3,0,Yes
+240,26.4,24253,35.6,62.8,Female,No,College,Retail,2,2,No
+241,67.8,31984,33.5,36.2,Male,No,Graduate,Retail,1,0,Yes
+242,55.3,68438,38.9,51.8,Female,Yes,Graduate,Education,1,1,No
+243,34.9,54013,38.9,40.5,Male,No,College,Retail,0,0,No
+244,55.9,28620,38.4,56.1,Female,Yes,High School,Health,1,1,No
+245,37.6,47872,37.8,62.4,Male,No,Graduate,Tech,1,0,No
+246,42.5,46283,38.9,59.9,Female,Yes,Graduate,Health,1,0,No
+247,30.1,46049,40.2,32.8,Female,Yes,College,Education,0,0,Yes
+248,40.5,55397,44,38,Female,Yes,Graduate,Retail,0,0,Yes
+249,27.9,33554,31.2,39.1,Female,Yes,High School,Education,2,0,No
+250,33.1,79483,38.9,51,Male,No,High School,Retail,0,1,Yes
+251,33.6,62283,45.2,51.6,Male,Yes,High School,Tech,3,0,No
+252,32.4,52168,44.9,55.7,Male,No,College,Retail,0,0,Yes
+253,46.7,36826,35.5,40.4,Female,Yes,High School,Health,1,1,No
+254,28.9,60688,41.3,57.8,Female,No,High School,Health,0,1,Yes
+255,31.1,38771,29.5,64.3,Male,No,High School,Retail,0,1,No
+256,47.6,29295,41.2,48.3,Female,No,High School,Retail,0,1,No
+257,44.5,38890,51.2,44.2,Male,Yes,College,Retail,1,0,No
+258,26.9,46323,36.6,63.7,Male,No,College,Health,0,1,Yes
+259,21.5,51716,41.3,33.1,Male,No,Graduate,Health,0,0,Yes
+260,30.3,89306,43.6,39.8,Female,Yes,College,Tech,0,0,No
+261,20.6,49004,45.9,64.5,Male,No,High School,Tech,2,0,Yes
+262,30.2,66807,53.2,46.3,Female,No,Graduate,Education,0,0,Yes
+263,31.5,55388,50.4,55.2,Male,No,Graduate,Health,1,0,Yes
+264,30.6,28265,46.5,61,Male,Yes,High School,Health,1,1,Yes
+265,39,44077,39.3,72.3,Male,Yes,College,Health,0,0,Yes
+266,50.3,48975,38.5,38.9,Female,No,College,Health,0,0,Yes
+267,29.6,35242,34.9,61.4,Female,No,High School,Education,0,0,No
+268,32.3,55955,36.6,40.5,Male,Yes,College,Retail,0,1,No
+269,32.6,16592,33,54,Female,No,Graduate,Tech,0,0,No
+270,53.8,23783,44.8,62.2,Female,No,Graduate,Tech,4,0,Yes
+271,41.8,58251,40.4,43,Female,No,Graduate,Education,0,0,No
+272,25.2,29338,27.5,45.7,Female,No,Graduate,Tech,0,1,No
+273,21.5,63398,40.1,57.5,Female,No,Graduate,Education,0,0,No
+274,36.4,51322,41.6,28.5,Male,Yes,Graduate,Tech,0,0,Yes
+275,27.8,47046,39.1,52.3,Female,No,High School,Retail,1,0,No
+276,41.1,54585,32.7,61.8,Female,No,Graduate,Education,1,0,Yes
+277,21.2,49136,40,41,Male,Yes,Graduate,Education,1,1,Yes
+278,32.7,68021,30.1,32.7,Male,Yes,Graduate,Health,0,0,No
+279,35.9,67272,36.7,53.4,Female,No,College,Health,0,1,No
+280,20,31806,44.4,62.1,Female,No,High School,Education,0,0,Yes
+281,52.3,71069,40,36.1,Male,No,College,Tech,0,0,No
+282,40.2,48922,31.3,41.7,Female,Yes,High School,Education,2,0,No
+283,31.1,27653,39.4,64.9,Male,No,Graduate,Retail,1,2,No
+284,33.3,24286,41.4,52.3,Female,No,High School,Tech,1,0,Yes
+285,24,35174,43.1,45.6,Male,Yes,High School,Education,0,0,No
+286,28.9,55797,39.6,47.8,Male,No,Graduate,Retail,1,0,No
+287,31.5,57327,39.3,60,Female,No,High School,Retail,1,0,No
+288,36.7,40514,43.8,57.8,Male,No,High School,Education,0,0,No
+289,37.1,48527,45,50.6,Male,Yes,Graduate,Retail,2,1,Yes
+290,38.2,37563,50.6,56.7,Male,No,Graduate,Retail,0,0,Yes
+291,36.3,43209,41.7,52.2,Female,Yes,Graduate,Education,0,0,Yes
+292,49.3,63188,51.8,50.6,Male,No,High School,Retail,0,1,No
+293,29.5,44183,42.7,52,Male,No,College,Education,0,0,Yes
+294,22.1,57636,47.1,45.8,Male,Yes,High School,Education,1,0,Yes
+295,23.5,40285,37,60.4,Female,Yes,Graduate,Tech,1,1,No
+296,28.4,16458,38.6,45.5,Female,No,High School,Health,1,0,No
+297,45.7,32356,37.4,61.1,Male,Yes,High School,Tech,2,0,No
+298,47.6,78564,44.3,61.4,Male,No,Graduate,Retail,2,0,No
+299,43.7,53658,42.2,67.7,Female,Yes,Graduate,Health,1,2,No
+300,20.8,53287,35.7,54.8,Female,No,College,Education,0,0,No
+301,43.6,65338,35.8,53.1,Male,Yes,Graduate,Education,1,0,No
+302,40.3,50908,41.4,38.8,Female,Yes,Graduate,Health,0,0,No
+303,22.6,51862,42.2,43.1,Male,No,High School,Retail,0,1,Yes
+304,41.3,50252,33.8,64.3,Male,No,College,Health,0,0,Yes
+305,33.4,55281,47.4,62.9,Female,No,College,Education,1,0,Yes
+306,30.4,35914,31.6,62.9,Female,No,College,Health,1,0,No
+307,31.6,73796,37.2,38,Male,No,College,Tech,0,0,Yes
+308,52.9,36940,32.1,50.4,Female,Yes,High School,Retail,0,0,Yes
+309,29.4,50488,41,48.5,Female,Yes,Graduate,Tech,0,1,No
+310,26.6,54638,42.9,49.2,Female,Yes,College,Health,2,0,No
+311,33.7,64221,38.5,59.3,Male,No,Graduate,Health,2,0,Yes
+312,21.1,58926,39.1,37.3,Female,Yes,High School,Tech,1,0,No
+313,29.6,64610,48.5,54.4,Male,Yes,Graduate,Tech,1,0,Yes
+314,20.2,39408,36.8,61.1,Male,No,High School,Tech,0,1,No
+315,38.4,38867,45,52.8,Female,No,High School,Retail,0,0,Yes
+316,38.6,69835,37,30.1,Female,Yes,High School,Retail,1,0,Yes
+317,26.7,44367,39,36.4,Male,No,Graduate,Education,2,0,No
+318,46,53606,39,58.3,Female,Yes,High School,Tech,2,2,Yes
+319,21.3,42866,43.3,42.2,Female,No,High School,Retail,0,0,No
+320,24.7,57704,52,59.1,Male,Yes,College,Retail,0,4,No
+321,20.3,64473,36,79.2,Female,Yes,College,Tech,1,0,No
+322,44.2,35591,42,73.8,Male,Yes,Graduate,Tech,0,1,Yes
+323,27.7,44827,43,43.5,Female,No,High School,Health,0,0,No
+324,32,60736,39.6,59.4,Male,Yes,College,Health,0,0,No
+325,30.9,28735,39.3,63.9,Female,No,High School,Tech,0,0,No
+326,28.5,60943,36.4,49.2,Female,Yes,High School,Tech,1,0,Yes
+327,42.5,47732,48.7,62.4,Male,No,Graduate,Tech,0,3,Yes
+328,20.3,59283,33,52,Male,No,Graduate,Education,1,0,No
+329,41.7,41512,42.6,49.6,Male,No,Graduate,Retail,0,0,Yes
+330,20.4,67492,42.6,56.5,Female,No,Graduate,Tech,0,0,No
+331,27.7,38225,34.6,46.1,Female,Yes,Graduate,Education,0,0,No
+332,51.2,43337,37.9,72,Female,Yes,Graduate,Retail,2,0,Yes
+333,32.6,50066,38.1,56.5,Female,No,College,Health,0,0,Yes
+334,44.5,48243,38.5,67.6,Male,Yes,Graduate,Health,0,0,No
+335,44.1,58372,54.2,43.1,Male,No,College,Tech,0,0,Yes
+336,23.6,69543,41.9,41.9,Male,No,College,Retail,1,2,No
+337,42.4,56567,37.5,62.6,Female,No,College,Tech,0,0,No
+338,27.1,65767,40.5,47.6,Male,No,College,Health,0,0,Yes
+339,28.1,30834,38.8,51.4,Male,Yes,High School,Health,1,0,Yes
+340,32.8,12721,37.1,51.3,Male,No,Graduate,Retail,2,1,Yes
+341,33.8,43605,32.1,57.6,Male,No,College,Health,0,1,No
+342,54.1,54617,40.9,63.6,Male,Yes,High School,Retail,1,2,Yes
+343,5.6,49020,42.2,38.7,Male,No,College,Health,0,0,Yes
+344,27.2,66795,46.4,37,Female,No,College,Education,0,1,No
+345,23.4,52298,43.9,74.5,Male,No,College,Tech,0,1,Yes
+346,50.5,56588,37.7,62.3,Female,No,Graduate,Education,1,0,No
+347,52,41952,37.4,52.1,Female,No,Graduate,Tech,0,0,Yes
+348,47,52077,43.1,46.8,Male,No,Graduate,Tech,0,0,Yes
+349,42.9,82297,44.3,54.8,Male,Yes,High School,Education,2,0,Yes
+350,44.9,47010,35.7,62.7,Male,No,College,Retail,1,1,No
+351,32.9,51927,45.8,42.4,Male,Yes,Graduate,Tech,2,0,Yes
+352,41.2,82367,45.7,38.6,Female,Yes,Graduate,Tech,0,0,Yes
+353,32.8,58664,40.5,50.1,Female,Yes,High School,Tech,1,0,Yes
+354,31.1,54665,41.1,43.5,Male,No,College,Retail,0,0,No
+355,40.2,65978,44.3,51.9,Male,No,Graduate,Retail,0,0,Yes
+356,31.2,53925,39.8,37.2,Male,No,Graduate,Health,0,0,Yes
+357,19.4,11868,37,41.3,Female,Yes,Graduate,Tech,0,0,Yes
+358,4.2,42605,38.1,49.6,Female,Yes,High School,Health,0,0,No
+359,17.9,78065,41,26.7,Female,Yes,College,Education,0,1,No
+360,24.7,40816,33.9,51.1,Male,Yes,College,Tech,0,0,No
+361,44.4,69293,43.7,51.2,Male,No,High School,Retail,0,0,No
+362,32,40789,37,48.6,Female,No,Graduate,Retail,0,0,Yes
+363,37.6,54482,47.7,27.1,Male,No,College,Tech,0,0,No
+364,25.1,62729,34.9,40.7,Female,Yes,Graduate,Retail,0,1,No
+365,54.1,42745,37.2,44.2,Female,Yes,Graduate,Health,0,1,No
+366,41.8,74906,43.7,48.5,Female,Yes,College,Education,0,1,Yes
+367,25.4,32555,42.2,47.6,Male,Yes,College,Retail,1,0,No
+368,28.7,65031,31.5,29.2,Female,No,Graduate,Education,0,1,No
+369,25.9,47731,34.1,50.1,Male,Yes,High School,Tech,0,0,No
+370,27.6,63338,36.2,40.5,Female,No,High School,Retail,0,0,Yes
+371,19.7,40080,45.8,51.4,Female,No,High School,Health,0,0,No
+372,36.7,40297,44.5,49.3,Female,Yes,College,Tech,1,0,Yes
+373,29.8,28698,44.6,43.6,Male,Yes,High School,Health,0,0,No
+374,36.7,37836,48.2,43.4,Female,Yes,Graduate,Health,3,0,Yes
+375,26.4,45784,39.5,38,Male,Yes,College,Tech,0,0,No
+376,22.7,64011,44.7,43.3,Female,No,High School,Education,2,2,No
+377,23.1,29159,43.6,58.2,Female,No,Graduate,Retail,0,1,Yes
+378,45.3,44011,47.5,52.7,Male,Yes,College,Health,3,0,No
+379,48.2,63328,36.3,48.1,Male,Yes,High School,Health,1,1,No
+380,52.8,43656,41.1,61.2,Male,Yes,Graduate,Health,1,2,No
+381,42.6,28247,44,39.3,Female,No,Graduate,Retail,0,2,Yes
+382,33.3,53180,34.5,52.1,Female,Yes,High School,Education,0,0,No
+383,31.9,57018,32.3,49.2,Female,Yes,Graduate,Education,0,1,No
+384,34.9,32560,33,48.9,Female,No,College,Retail,0,0,Yes
+385,48.5,49850,43.9,58.3,Female,Yes,College,Tech,1,0,No
+386,23.5,56990,33.5,45.2,Female,No,High School,Retail,1,0,No
+387,14.1,39813,41.2,51.5,Female,Yes,College,Health,0,0,No
+388,20.6,17171,35.1,39.2,Female,Yes,College,Retail,0,2,Yes
+389,43.7,70043,31.6,62.4,Female,No,Graduate,Retail,0,1,No
+390,25.4,80279,41.5,48.4,Male,No,Graduate,Education,0,0,No
+391,40.2,51978,35.8,55.2,Male,No,High School,Health,0,0,No
+392,45.1,71547,38,51,Male,Yes,College,Health,1,0,No
+393,54.5,54603,43,64.8,Male,Yes,High School,Education,3,1,Yes
+394,39,37776,49.6,46.7,Female,Yes,College,Education,0,1,No
+395,16.8,37030,32,41.4,Female,No,Graduate,Health,0,0,No
+396,51.5,49841,39.8,51.9,Male,No,High School,Health,0,0,Yes
+397,36.8,79251,42.9,61.4,Female,No,Graduate,Tech,0,1,No
+398,21.1,54820,37.1,62.7,Male,No,High School,Retail,0,1,Yes
+399,33.7,26773,39.9,45,Male,No,High School,Education,0,0,Yes
+400,46.9,71501,35.2,53.1,Female,Yes,Graduate,Health,0,0,Yes
+401,23,56143,41.1,71,Female,No,Graduate,Health,0,1,Yes
+402,44.4,55221,43.7,47.1,Male,Yes,Graduate,Health,0,2,Yes
+403,32.4,50294,37.5,49.2,Female,Yes,High School,Health,0,0,No
+404,37.5,37158,31.4,50,Male,Yes,Graduate,Tech,0,0,No
+405,48.5,71398,37.5,51.5,Female,Yes,High School,Retail,1,0,Yes
+406,34.9,37670,38.4,51.9,Female,No,Graduate,Health,0,0,No
+407,39.8,45242,31.5,59.7,Male,Yes,College,Education,2,2,No
+408,43.5,53819,45.8,51.8,Female,Yes,Graduate,Health,2,1,Yes
+409,59.5,54864,39.4,32.2,Male,Yes,College,Tech,1,1,No
+410,38.4,55368,44.6,51.8,Female,Yes,College,Education,0,0,No
+411,29,72098,32.8,29.8,Male,Yes,Graduate,Education,0,0,Yes
+412,23.5,53055,37.4,38.2,Male,No,College,Health,0,0,No
+413,40.8,55920,30.1,48.8,Female,No,College,Health,0,0,No
+414,36.2,19286,33.3,47.8,Female,Yes,High School,Tech,0,1,Yes
+415,46.2,27659,38.9,45.2,Female,Yes,High School,Health,1,1,No
+416,23.4,29285,39.9,51.7,Female,No,College,Education,0,2,No
+417,16.8,36050,40.3,54.1,Female,No,College,Tech,1,0,Yes
+418,21.6,52555,40.5,37.5,Male,Yes,College,Education,1,0,Yes
+419,36,51556,40.6,62.3,Male,Yes,Graduate,Tech,0,1,Yes
+420,37,77849,33.9,30.4,Male,Yes,High School,Education,2,0,No
+421,41.6,19041,44.6,59.3,Male,No,Graduate,Tech,1,0,No
+422,40.5,35117,36.5,51.8,Male,Yes,High School,Retail,0,3,No
+423,35.6,43902,41,39.5,Male,No,Graduate,Retail,1,1,Yes
+424,31.3,75509,31.4,37.8,Male,No,High School,Education,0,1,No
+425,26.2,60556,39.2,50,Male,Yes,College,Tech,1,0,Yes
+426,22.8,58640,34.1,41.5,Female,Yes,High School,Education,0,1,No
+427,39.6,67714,34.1,38.9,Male,No,Graduate,Retail,0,0,No
+428,57.7,43478,45.9,47.2,Male,Yes,College,Education,2,0,No
+429,35.2,22886,51.3,63.3,Female,Yes,High School,Health,0,2,No
+430,27.3,35879,35,49.9,Male,No,Graduate,Health,0,0,No
+431,52.1,70538,43.9,44.5,Female,Yes,Graduate,Health,0,0,Yes
+432,31.3,58643,36,47.7,Female,No,Graduate,Health,0,1,No
+433,31.5,45700,26.9,42.3,Female,No,Graduate,Retail,0,0,No
+434,24.7,49195,38.4,33.8,Male,No,College,Health,0,0,No
+435,27.1,47838,47.2,48.9,Male,No,Graduate,Tech,0,1,Yes
+436,50.3,31381,48.9,45.6,Female,Yes,High School,Health,0,0,No
+437,28.3,20638,40.5,69.7,Male,Yes,College,Health,2,0,Yes
+438,2.3,25768,30.6,72.5,Female,Yes,Graduate,Education,1,0,No
+439,35.7,59934,42.4,60,Male,Yes,Graduate,Retail,0,2,Yes
+440,29.8,41472,26.7,34.9,Male,Yes,College,Retail,0,0,No
+441,43.2,59844,42,57.2,Male,No,College,Education,0,0,Yes
+442,49,49000,41.5,63.6,Male,No,High School,Education,1,0,Yes
+443,38.8,32477,52.1,50.3,Female,Yes,Graduate,Retail,0,0,No
+444,57.6,40583,32.8,60.2,Female,No,College,Retail,2,0,No
+445,32.5,71505,47.7,54.6,Female,No,Graduate,Education,1,0,Yes
+446,30.7,82355,33,55.6,Male,No,High School,Retail,0,1,No
+447,24.6,43880,39.9,46.5,Female,Yes,College,Retail,1,0,Yes
+448,48.4,72554,42.4,39.3,Female,Yes,College,Retail,0,0,No
+449,26.1,42841,37.7,49.2,Female,No,College,Education,0,1,No
+450,34,43752,34.2,36.3,Female,No,High School,Retail,0,0,No
+451,16.9,53674,36.8,42.4,Female,No,High School,Education,0,1,Yes
+452,55.2,60442,46,61.9,Female,Yes,Graduate,Education,1,0,Yes
+453,40.3,37305,44.5,48.8,Female,No,College,Retail,0,0,No
+454,38.4,70494,36.5,47.2,Male,Yes,Graduate,Health,0,0,Yes
+455,43.5,35872,36.7,47.4,Female,No,College,Health,1,0,No
+456,18.6,35984,44,56.6,Male,No,College,Health,0,0,Yes
+457,25.9,64628,36.2,59.8,Male,Yes,High School,Education,2,0,No
+458,40.7,66206,45.7,55.9,Male,No,Graduate,Health,2,0,Yes
+459,44.4,62410,37.4,49.7,Male,No,Graduate,Retail,0,0,No
+460,30.8,60782,47.6,43.6,Male,Yes,High School,Retail,1,0,No
+461,18.5,35955,29.4,53.4,Male,Yes,College,Retail,1,3,No
+462,36.7,57588,29.8,45.6,Male,Yes,High School,Tech,1,0,No
+463,34.6,52197,34.8,43.5,Male,No,College,Education,0,0,No
+464,45.8,52378,38.7,47.3,Male,No,Graduate,Tech,1,0,No
+465,29.5,75450,38.6,44.4,Female,Yes,High School,Health,1,0,Yes
+466,43.9,83099,36.2,22.8,Male,No,High School,Retail,1,1,No
+467,39.2,52295,42.7,36.9,Female,No,Graduate,Health,0,0,Yes
+468,24.9,81640,49.3,26,Male,Yes,Graduate,Health,0,0,Yes
+469,65.4,52938,44.7,42.3,Female,Yes,College,Health,1,1,Yes
+470,40.7,57979,43.2,43.4,Female,No,High School,Tech,1,0,No
+471,30.6,64297,35,50.2,Male,Yes,High School,Education,1,0,Yes
+472,32.3,20363,46.4,70.9,Female,No,College,Tech,0,2,No
+473,39.6,50827,45,51.4,Male,Yes,Graduate,Education,2,1,No
+474,32.6,47649,35.5,37.2,Female,Yes,High School,Health,0,1,Yes
+475,40.7,53967,40.5,53,Female,Yes,College,Tech,1,2,No
+476,35.2,72025,38.2,38.7,Female,Yes,Graduate,Education,0,0,Yes
+477,34.8,55599,38.4,56.5,Male,No,High School,Health,0,0,No
+478,42.5,33241,38.4,49.3,Female,Yes,Graduate,Retail,2,1,No
+479,30.3,60764,40.1,64.8,Female,No,Graduate,Health,0,1,No
+480,56.5,54001,48.7,49.6,Female,No,High School,Education,0,0,No
+481,29.9,48557,37.7,39,Female,No,College,Tech,1,0,No
+482,35.9,61779,40.9,63,Male,Yes,Graduate,Retail,1,2,Yes
+483,43.5,40795,46.7,53.3,Male,No,High School,Tech,0,1,Yes
+484,26.3,49922,34.4,41.2,Male,Yes,College,Education,0,2,Yes
+485,36.7,49161,42.2,44.1,Male,No,Graduate,Retail,1,0,No
+486,29.4,49169,48.2,42.2,Male,No,Graduate,Retail,0,0,Yes
+487,29.4,72703,35.6,58.6,Female,No,College,Retail,1,1,No
+488,35.6,59438,34.8,39,Female,Yes,High School,Tech,0,0,No
+489,41,41368,37,38.6,Male,No,High School,Retail,0,0,Yes
+490,51.2,53107,43.1,61.7,Female,Yes,College,Health,5,3,Yes
+491,27.4,64223,37.1,71.1,Male,Yes,Graduate,Tech,1,1,No
+492,22.3,35173,43.1,30.9,Male,No,Graduate,Tech,0,0,Yes
+493,30,65282,43.1,63.9,Male,No,College,Health,0,0,Yes
+494,33.1,57167,36,58,Female,Yes,Graduate,Health,1,1,Yes
+495,34.2,40407,36.7,37.8,Female,No,High School,Education,1,0,No
+496,50.1,43861,41.7,52.4,Male,No,Graduate,Health,0,0,No
+497,35.1,45229,39.4,38.9,Female,No,Graduate,Health,1,0,No
+498,36.1,59569,48,30.7,Male,Yes,High School,Education,0,1,Yes
+499,37.8,55061,36.6,53.3,Female,No,Graduate,Health,0,0,No
+500,41,49594,40.6,42.5,Female,No,College,Health,0,1,No
+501,50.3,43119,34,45.7,Male,No,Graduate,Tech,0,0,No
+502,30.6,55876,30.9,29.1,Male,Yes,College,Tech,0,0,No
+503,15.8,60796,41.6,62.9,Female,Yes,High School,Retail,1,3,Yes
+504,24.2,58673,31.6,59.9,Male,Yes,High School,Tech,0,0,No
+505,32.7,53749,35.6,39.3,Female,Yes,High School,Education,0,1,Yes
+506,25.7,36155,32.8,49.7,Female,No,College,Retail,0,0,No
+507,19.7,13424,43.5,30.3,Male,No,High School,Education,0,0,No
+508,39,31734,41.1,72.5,Male,No,Graduate,Education,0,0,No
+509,30.8,51172,38.7,55.4,Female,No,High School,Health,0,0,No
+510,47.1,53296,42.1,56,Male,No,Graduate,Education,0,1,Yes
+511,19.7,42434,42.8,40.6,Male,Yes,College,Health,0,1,Yes
+512,38.7,42489,40.3,45.6,Male,No,Graduate,Education,0,1,Yes
+513,15.3,76195,36.4,57.8,Female,Yes,High School,Education,1,2,No
+514,37.9,63035,40.6,52.4,Female,No,College,Tech,1,0,Yes
+515,25.6,60236,38.9,55.3,Female,No,College,Tech,1,0,No
+516,39.9,41636,46.1,66.3,Male,Yes,Graduate,Education,0,2,No
+517,44.3,58470,45.7,42.8,Female,Yes,Graduate,Health,0,1,Yes
+518,33.5,41415,47.8,74,Female,Yes,Graduate,Tech,2,1,Yes
+519,28.5,67677,46.8,47.5,Male,No,High School,Health,1,0,No
+520,38.5,53179,41.7,46.3,Male,No,High School,Retail,0,0,No
+521,36.1,27516,47.5,63,Female,Yes,College,Tech,1,1,Yes
+522,42.7,64637,43.4,78.1,Male,Yes,High School,Education,1,2,Yes
+523,39.6,47471,47.2,47.7,Male,No,Graduate,Education,1,1,Yes
+524,49,69057,38.1,47.2,Male,Yes,College,Retail,3,0,No
+525,21.4,57517,33.4,37.9,Male,Yes,College,Health,1,0,Yes
+526,39.2,45794,39.9,60.5,Female,Yes,High School,Education,1,2,Yes
+527,29.9,60879,39.3,47.8,Female,No,College,Tech,0,0,No
+528,25.5,78631,28.6,50.6,Female,Yes,Graduate,Retail,0,1,Yes
+529,41.1,79736,29.6,57.9,Male,No,Graduate,Retail,0,0,Yes
+530,33.4,52625,24.4,53.2,Male,Yes,College,Tech,1,1,No
+531,52.8,49584,46.9,35.7,Female,No,High School,Health,0,0,Yes
+532,38.3,66761,37.2,60.8,Male,Yes,Graduate,Health,3,2,Yes
+533,46.4,39146,26.8,28.8,Female,Yes,Graduate,Education,0,1,No
+534,64.5,77309,35.8,50.8,Female,Yes,Graduate,Health,2,1,No
+535,28.4,28005,38,53.5,Female,No,High School,Retail,1,0,No
+536,41.4,57817,49.8,55.3,Male,Yes,College,Education,1,0,Yes
+537,39.2,42427,41.8,46.7,Male,Yes,Graduate,Retail,1,0,Yes
+538,32.6,51535,40.1,38.5,Male,No,Graduate,Education,0,0,Yes
+539,25.9,52484,39.5,44.2,Male,Yes,College,Tech,0,0,No
+540,53.7,65364,45.3,51.4,Female,No,Graduate,Education,1,0,Yes
+541,40,27198,36.9,53,Male,No,High School,Health,0,0,No
+542,28.9,75190,42,60.6,Male,Yes,Graduate,Retail,0,1,No
+543,42.5,50844,33.7,44.9,Male,Yes,Graduate,Retail,1,3,Yes
+544,55.2,55761,31.5,51.7,Female,Yes,High School,Education,2,1,No
+545,24.2,62336,50.2,79.8,Male,Yes,High School,Retail,1,4,Yes
+546,21.9,56071,40,59.9,Female,Yes,High School,Health,1,0,No
+547,58.4,37368,48.4,40.2,Female,No,High School,Tech,0,1,Yes
+548,39.1,32052,43.5,41.1,Female,No,Graduate,Education,0,1,Yes
+549,35.2,51283,40.2,46.8,Female,No,College,Tech,0,0,No
+550,37,45576,41.9,62.7,Male,Yes,College,Education,1,0,No
+551,51.5,39178,39.7,55,Male,No,High School,Education,1,1,No
+552,42.2,60136,48.6,38.7,Female,No,College,Tech,0,2,No
+553,13.1,58764,39.2,34.9,Female,Yes,College,Tech,0,0,Yes
+554,47.9,18621,39.3,51.7,Male,No,College,Retail,2,0,Yes
+555,20,40661,37.7,51.2,Male,Yes,College,Health,1,0,No
+556,30.9,60822,46.6,46.6,Male,Yes,High School,Education,0,0,Yes
+557,26.3,43904,40.6,47.4,Male,Yes,High School,Health,1,0,No
+558,49.7,53996,41.5,34.2,Female,Yes,High School,Retail,0,0,No
+559,38.4,36351,38.5,47.5,Male,Yes,Graduate,Tech,0,0,No
+560,34.7,68654,41.1,53.1,Female,No,High School,Tech,2,0,No
+561,52.7,57016,40.7,53,Female,Yes,High School,Retail,3,1,No
+562,32.4,43431,41.9,55.8,Female,No,Graduate,Tech,1,1,No
+563,40.8,32373,34.5,59.2,Male,No,College,Tech,0,0,No
+564,35.5,50806,34.5,63,Female,No,College,Retail,0,1,No
+565,34.5,39787,39.4,43.5,Female,Yes,Graduate,Retail,1,0,No
+566,16,50380,35,56.2,Male,No,High School,Retail,0,0,No
+567,28.1,21637,34,58.6,Female,Yes,High School,Tech,0,0,No
+568,32,77039,37.1,46.2,Male,No,College,Retail,0,0,No
+569,42.3,41972,51,67.8,Female,Yes,Graduate,Tech,1,1,Yes
+570,35.7,51351,48.2,48.2,Female,Yes,High School,Retail,3,0,Yes
+571,42.8,86128,41.1,71.4,Female,No,College,Tech,1,0,Yes
+572,41.2,64679,38.4,41.1,Female,Yes,Graduate,Tech,1,0,No
+573,47.2,36928,40.4,73,Female,No,College,Education,0,1,No
+574,14.8,49656,38.8,45.5,Male,No,High School,Tech,0,0,No
+575,50.4,63158,45.1,62.8,Male,No,College,Tech,2,0,No
+576,36.4,48933,36,36.2,Female,Yes,High School,Retail,0,3,Yes
+577,32.9,41663,34.1,46.1,Female,Yes,College,Education,0,1,Yes
+578,42.2,49747,48.7,52.9,Male,No,College,Retail,2,4,Yes
+579,36,46518,35.1,53.9,Male,No,College,Health,0,0,Yes
+580,35.8,30976,40.1,44.4,Female,Yes,Graduate,Retail,0,0,No
+581,27.4,37637,34.2,63.3,Male,Yes,High School,Retail,0,5,No
+582,34.6,78494,45.4,51.9,Male,Yes,College,Retail,1,0,No
+583,39.9,56707,32.3,48,Male,Yes,High School,Tech,1,1,No
+584,38.7,65873,31.9,41.2,Female,Yes,Graduate,Health,2,1,No
+585,25.7,25954,37.1,40.5,Male,Yes,High School,Retail,1,0,No
+586,38.9,49815,37.8,43.4,Male,Yes,Graduate,Education,1,0,No
+587,42.6,69133,37.7,42.4,Female,Yes,Graduate,Retail,0,0,Yes
+588,27.6,53946,33.8,70.9,Female,Yes,High School,Retail,0,0,Yes
+589,30.3,49890,40.6,42.2,Male,Yes,Graduate,Tech,0,0,Yes
+590,35.7,46596,26.5,42.7,Male,No,Graduate,Retail,0,0,Yes
+591,40.9,44094,42.6,26,Female,Yes,Graduate,Health,0,0,Yes
+592,36.3,99048,36.7,50.6,Female,No,High School,Health,1,0,No
+593,24.5,53591,37.7,54,Male,Yes,College,Retail,1,2,No
+594,40.5,44934,39.4,55.3,Male,No,Graduate,Tech,0,0,Yes
+595,34.1,34036,41.6,58.5,Male,No,Graduate,Tech,1,1,No
+596,30.3,47359,32.8,43.5,Female,Yes,High School,Retail,0,0,No
+597,30.8,59682,31.7,40.1,Female,Yes,High School,Tech,0,0,No
+598,34.2,45415,42.4,61.4,Female,Yes,High School,Education,1,1,Yes
+599,40.2,98525,43.7,66.3,Male,Yes,High School,Tech,3,0,No
+600,43.2,57343,43.4,56.1,Male,No,High School,Tech,1,0,No
+601,44.5,60174,42.7,68.6,Male,No,College,Health,0,0,Yes
+602,14.6,75328,35.9,38.2,Female,Yes,Graduate,Education,0,0,Yes
+603,42.4,50773,43.7,69.1,Male,No,College,Retail,0,0,No
+604,35.7,50192,41.8,52.8,Male,No,College,Education,0,1,No
+605,29.4,40244,41.3,47.4,Female,No,High School,Health,0,0,No
+606,32.6,78512,39.3,35.1,Female,Yes,College,Retail,0,0,No
+607,30,41768,34.2,42.9,Female,Yes,High School,Tech,1,0,No
+608,33.1,53669,47.1,61.2,Male,No,Graduate,Tech,0,1,No
+609,13.7,40994,36.8,27.7,Female,Yes,High School,Retail,0,0,Yes
+610,28.4,35160,43.4,69.7,Female,No,Graduate,Education,0,1,Yes
+611,46.1,60647,47.6,46.3,Male,Yes,College,Retail,1,1,Yes
+612,23.2,38881,35.4,49.3,Male,No,Graduate,Retail,0,0,No
+613,25.6,72820,36.4,45,Female,Yes,Graduate,Health,0,0,Yes
+614,25.8,67283,34.5,48.8,Male,Yes,High School,Education,0,0,No
+615,31.8,41206,44.5,56.1,Female,No,Graduate,Retail,0,2,Yes
+616,21.1,65805,35.4,46.2,Female,Yes,Graduate,Education,0,0,No
+617,49.5,51330,37.3,68.3,Male,No,High School,Tech,1,0,No
+618,29.9,47276,34.2,63.7,Male,No,College,Retail,0,0,No
+619,53.5,42730,38.3,61.7,Female,Yes,High School,Retail,2,0,Yes
+620,38.3,61096,37.2,72.3,Female,Yes,Graduate,Health,2,1,Yes
+621,35.9,59269,32.4,49.2,Female,Yes,High School,Health,0,0,Yes
+622,32.1,32406,43.8,26,Female,Yes,Graduate,Tech,0,1,No
+623,40.7,90755,43.6,54.8,Female,Yes,High School,Retail,1,0,Yes
+624,24.8,36461,34,50.2,Male,No,High School,Tech,1,0,Yes
+625,43,43726,32.8,39.9,Female,No,Graduate,Education,0,0,Yes
+626,43.6,37194,42.8,61.1,Female,No,High School,Education,0,0,Yes
+627,33.2,35335,42.3,45.3,Female,Yes,Graduate,Education,0,2,Yes
+628,29.1,29103,34.6,51.5,Female,No,High School,Retail,1,0,Yes
+629,38.8,62957,30.2,58.4,Male,No,College,Retail,0,0,No
+630,29.8,78472,45.8,44.8,Female,Yes,High School,Education,0,1,Yes
+631,47.9,52871,36.9,46.2,Female,No,College,Health,2,3,Yes
+632,9.5,65835,37.8,66.1,Male,No,Graduate,Tech,0,0,No
+633,25.8,54304,44.8,51.2,Male,Yes,Graduate,Education,0,1,Yes
+634,16.1,51526,39.4,45,Female,Yes,High School,Tech,0,0,Yes
+635,27.4,36986,44.8,36.1,Male,Yes,College,Education,0,1,No
+636,36,60716,39.5,51.8,Female,No,High School,Retail,0,0,No
+637,43.3,37810,37.7,44.1,Male,No,Graduate,Retail,0,2,Yes
+638,31.2,37007,32.1,42.8,Female,No,High School,Retail,1,1,Yes
+639,24.1,50098,34.5,35.4,Female,Yes,High School,Tech,1,0,No
+640,43.6,47210,34,41.4,Female,No,High School,Retail,1,2,Yes
+641,31.7,59829,48.8,35.3,Female,No,High School,Education,0,0,No
+642,23.6,53167,39.2,55.1,Male,No,College,Tech,0,2,No
+643,29.3,35985,32.6,50.2,Female,No,Graduate,Health,0,0,No
+644,35.6,33059,50,57.9,Male,Yes,College,Retail,1,2,Yes
+645,45.1,47476,41.8,60.1,Female,Yes,High School,Retail,0,1,Yes
+646,26.2,36721,34.8,50.2,Female,No,High School,Education,0,0,No
+647,40,40721,50.8,45.1,Female,No,High School,Tech,0,1,No
+648,35.9,41149,41.5,51.6,Female,No,High School,Tech,1,0,No
+649,23.1,44376,35.9,54.2,Male,Yes,High School,Education,0,1,Yes
+650,35.6,14635,38.3,58.3,Female,Yes,Graduate,Education,1,0,No
+651,39.7,30770,36.4,45.1,Female,Yes,Graduate,Retail,1,0,Yes
+652,30.4,70458,33.6,45.4,Male,Yes,Graduate,Health,1,0,Yes
+653,18.6,55617,44.5,35.5,Female,Yes,College,Education,1,0,Yes
+654,23,45851,37.3,53.5,Male,Yes,Graduate,Education,0,1,No
+655,37,50600,42,57.2,Male,Yes,Graduate,Tech,1,1,No
+656,48.4,34872,40.9,44.9,Female,No,High School,Tech,0,0,Yes
+657,44,66796,38.6,54.1,Female,Yes,High School,Education,0,1,Yes
+658,30.1,36154,27.5,50.8,Female,Yes,High School,Tech,0,1,No
+659,38.9,62036,39.7,59.9,Male,Yes,High School,Education,0,1,No
+660,51.3,37122,37.9,47.2,Male,No,High School,Tech,2,0,No
+661,22.9,38862,45.2,25.7,Female,Yes,Graduate,Health,0,0,No
+662,49.9,63703,35.9,39.5,Female,Yes,High School,Tech,0,0,Yes
+663,19.9,37647,26.7,58.6,Male,Yes,Graduate,Tech,0,2,No
+664,39.7,63263,33.9,41.8,Female,Yes,College,Tech,0,0,No
+665,22.3,65685,42.3,46.3,Male,No,High School,Tech,0,0,Yes
+666,26.8,49448,51.3,58.5,Male,Yes,Graduate,Health,2,2,No
+667,50.3,31387,42.4,54.3,Female,No,College,Tech,1,0,No
+668,17.9,52739,36.3,53.1,Male,Yes,College,Retail,2,1,No
+669,49.8,57794,32.1,71.9,Male,No,College,Education,1,2,No
+670,22.5,44241,45.8,47.9,Female,Yes,Graduate,Tech,0,1,No
+671,43.6,62506,40.6,42,Female,Yes,High School,Tech,2,0,Yes
+672,28.8,31552,40.9,40.1,Male,No,Graduate,Tech,0,0,Yes
+673,28.6,56165,36.8,57.6,Male,No,College,Health,0,1,No
+674,16.6,40139,44.4,43.3,Female,No,Graduate,Education,0,0,Yes
+675,25.9,38662,41.9,46.9,Male,No,High School,Education,0,0,Yes
+676,38.6,53022,39.5,45.4,Female,Yes,College,Retail,1,2,Yes
+677,35.2,47334,39.2,44.1,Male,Yes,Graduate,Tech,0,1,No
+678,39.1,45575,40.1,40.4,Female,No,Graduate,Health,0,0,No
+679,34.4,35682,43.5,55,Male,Yes,High School,Education,2,1,No
+680,45,52868,36.8,55.7,Male,No,College,Retail,0,0,No
+681,26.2,47291,42.3,58.7,Female,No,Graduate,Health,1,0,No
+682,44,56552,42.4,55.6,Male,No,Graduate,Retail,0,1,Yes
+683,39.8,47621,40.4,54.7,Female,No,Graduate,Tech,3,1,No
+684,40.5,56368,34.7,46.1,Female,Yes,High School,Tech,0,0,No
+685,45.7,42099,38.9,40.7,Female,No,High School,Tech,0,0,Yes
+686,37,53784,38.8,50.1,Male,No,Graduate,Tech,0,1,Yes
+687,30.8,52164,39.8,44.3,Female,Yes,High School,Health,1,0,No
+688,28.3,49911,34.5,60.8,Female,Yes,High School,Health,0,1,No
+689,27,43467,43,52.6,Male,No,Graduate,Tech,0,0,Yes
+690,17.6,51937,43.1,66.1,Female,Yes,College,Retail,1,1,Yes
+691,35,47566,39,42,Male,No,Graduate,Tech,0,0,No
+692,31.2,67192,47.9,57.1,Female,Yes,High School,Education,0,4,Yes
+693,28.2,39569,32.6,53.6,Female,Yes,Graduate,Tech,0,0,No
+694,35.4,45339,43.3,54.2,Male,No,High School,Retail,1,0,No
+695,32,46092,36.7,58.8,Female,No,High School,Retail,1,0,No
+696,25.6,50928,37,42.9,Male,No,High School,Retail,0,0,No
+697,46,59155,28.2,47.3,Female,Yes,College,Health,0,0,No
+698,35.7,65408,38,46.4,Female,No,Graduate,Education,2,1,No
+699,38,47203,43.4,57.4,Male,Yes,High School,Retail,0,2,No
+700,40.9,58004,38.2,52.6,Male,No,College,Retail,0,0,No
+701,37.4,30912,40.3,46.4,Female,No,Graduate,Health,0,0,No
+702,21,65417,40.4,58.6,Male,Yes,High School,Retail,0,0,Yes
+703,19.9,43016,37.8,40.3,Male,Yes,Graduate,Health,0,1,Yes
+704,49.7,64259,51.4,35.3,Male,No,High School,Health,0,0,No
+705,19.9,13315,29.1,41.2,Female,Yes,High School,Education,0,1,No
+706,42.6,53026,42.9,63.8,Male,Yes,Graduate,Health,0,0,Yes
+707,42.2,74321,42.4,55.2,Male,No,High School,Retail,0,1,No
+708,20.1,69218,33.7,58.8,Female,Yes,Graduate,Education,0,0,Yes
+709,32.9,45350,31.6,53.8,Female,No,College,Tech,2,0,No
+710,34.6,39104,50.2,49.1,Female,No,College,Health,0,0,Yes
+711,30,60318,40,46.5,Male,Yes,Graduate,Education,0,2,No
+712,27.8,79630,39.4,38.5,Female,Yes,High School,Health,1,0,No
+713,24.5,51850,37.2,34.9,Male,No,High School,Tech,0,0,No
+714,32.8,42117,44.9,60.3,Female,No,Graduate,Retail,1,1,Yes
+715,39.5,20478,34.7,62.4,Female,No,High School,Health,0,1,No
+716,29,50487,41.2,33.6,Male,No,College,Education,1,0,No
+717,29.2,75454,46.4,57.8,Female,No,Graduate,Health,1,1,No
+718,32.9,40980,37.5,51.8,Male,Yes,College,Retail,0,0,No
+719,28.7,78247,45,40.1,Male,Yes,Graduate,Health,1,1,Yes
+720,24.5,47129,34.6,56.7,Male,No,Graduate,Education,1,1,Yes
+721,49.8,76324,38.7,42.8,Male,No,College,Health,1,0,Yes
+722,51.1,41247,44.9,58.1,Male,Yes,High School,Education,1,0,No
+723,24.2,48046,29.4,55,Female,No,High School,Retail,0,0,No
+724,26.8,56210,27.9,48.8,Male,Yes,College,Health,0,1,No
+725,47.3,51937,40.7,34.9,Male,Yes,High School,Tech,1,1,No
+726,26.1,36246,42.6,43.3,Female,Yes,High School,Health,1,0,Yes
+727,35.2,49647,40.9,57.4,Male,Yes,Graduate,Education,4,1,Yes
+728,40.2,45627,44,53.7,Female,No,High School,Health,1,0,No
+729,48.9,41641,34.5,56.2,Female,Yes,Graduate,Education,1,1,No
+730,34.5,38052,32.6,57,Female,No,Graduate,Health,0,1,No
+731,33.3,74624,45.2,46.1,Female,Yes,High School,Education,0,0,Yes
+732,47.4,71896,39.2,52.9,Male,No,Graduate,Tech,1,1,No
+733,41.2,37747,44.4,46.9,Male,Yes,College,Health,1,0,No
+734,33.6,41179,37,51.6,Female,Yes,College,Education,1,0,No
+735,55.7,60016,43.5,60.2,Male,Yes,High School,Health,3,0,Yes
+736,53.2,34120,44.3,42.6,Female,No,Graduate,Retail,0,0,No
+737,33.4,41203,32.7,34.1,Male,Yes,High School,Retail,0,0,No
+738,36.6,47068,40.2,73.8,Female,Yes,High School,Health,2,0,No
+739,11.5,52281,44.5,46.3,Female,Yes,High School,Tech,0,0,Yes
+740,34.6,63911,39.7,60,Female,Yes,College,Tech,0,1,No
+741,57.4,20520,45.3,60.3,Female,Yes,High School,Health,4,0,No
+742,30,34229,42.9,45.7,Female,Yes,College,Education,0,0,Yes
+743,12.9,45066,38.5,60.4,Male,Yes,College,Education,0,0,No
+744,56.6,59047,33.2,38.2,Female,No,Graduate,Tech,1,1,No
+745,39.1,52170,38.5,34.2,Female,Yes,College,Education,2,2,No
+746,32.5,31331,37.9,47.3,Male,Yes,High School,Retail,1,2,No
+747,37.1,45267,38.3,57,Female,Yes,College,Retail,0,2,No
+748,60.7,42011,40.1,41.6,Male,No,High School,Education,1,0,Yes
+749,32,53916,41.9,54.8,Female,No,High School,Tech,0,0,No
+750,35.4,71247,32.5,53.9,Female,No,College,Education,1,1,No
+751,39.9,27540,36,42.2,Female,No,High School,Education,0,2,No
+752,45.2,69971,36.6,58.9,Male,Yes,High School,Tech,2,0,No
+753,32.3,70214,44,36.9,Female,Yes,High School,Retail,0,1,Yes
+754,43.9,29991,36.8,57.2,Female,No,College,Tech,1,1,No
+755,44.1,22315,28.9,54.6,Male,Yes,College,Education,0,0,No
+756,24.1,36395,36.5,43,Male,No,College,Tech,1,1,No
+757,31.4,53378,38.8,35.3,Female,No,High School,Retail,0,0,No
+758,26.9,42473,35,39.7,Male,No,College,Tech,1,0,No
+759,39.4,61572,51.3,66.8,Male,No,Graduate,Retail,0,0,Yes
+760,47,40993,39.5,51.1,Male,Yes,High School,Tech,0,0,No
+761,33.9,55974,46.7,33.4,Female,No,College,Education,0,1,No
+762,34.1,72094,43.3,46.1,Female,No,Graduate,Retail,0,1,No
+763,38.4,73487,39.3,36.4,Female,No,High School,Tech,1,0,No
+764,35.7,50763,44.4,51.3,Female,Yes,High School,Tech,0,0,No
+765,46,28603,40.2,52.1,Female,No,High School,Tech,1,0,No
+766,30.7,65135,44.1,49.7,Female,Yes,Graduate,Tech,1,0,Yes
+767,25.3,53288,34.8,42.1,Male,No,Graduate,Education,1,1,Yes
+768,30.8,40748,43.8,72.6,Male,Yes,College,Health,0,0,Yes
+769,43.1,39296,30.9,57.3,Male,No,High School,Health,0,0,No
+770,32.1,30132,32.2,41.4,Male,Yes,High School,Health,0,0,No
+771,41.9,49329,31.5,38.1,Female,No,Graduate,Education,0,0,No
+772,30.9,78221,37.6,40,Female,Yes,High School,Education,0,0,No
+773,26.8,49040,41.3,60.7,Female,No,High School,Education,0,1,No
+774,29.5,57665,48.7,54.9,Female,No,College,Health,0,0,No
+775,42.8,98773,36.6,38.7,Female,Yes,College,Tech,0,1,Yes
+776,23.4,52421,36.9,60.3,Male,No,High School,Tech,1,1,No
+777,45.5,32895,42.5,37,Male,Yes,Graduate,Education,1,0,No
+778,36,79556,32.6,50.2,Female,Yes,College,Tech,1,0,Yes
+779,39.3,56764,40.1,55.9,Male,No,College,Retail,1,0,Yes
+780,32.2,51328,39.4,43.5,Female,Yes,Graduate,Tech,0,1,No
+781,35.5,46546,37.4,46.5,Male,Yes,High School,Health,0,2,Yes
+782,52.7,39232,49.3,49.2,Female,Yes,Graduate,Education,0,0,Yes
+783,19.8,31452,37.5,43.5,Female,Yes,Graduate,Tech,0,1,No
+784,27.7,50821,38.1,57.4,Male,No,High School,Retail,1,1,No
+785,39,52102,38.2,55,Male,No,High School,Retail,1,0,No
+786,45.9,42795,39,39.4,Female,Yes,High School,Health,1,1,No
+787,30.3,25464,39.7,60.9,Male,Yes,College,Health,1,2,Yes
+788,25.3,34836,39.2,51.3,Female,No,High School,Tech,0,0,Yes
+789,35.1,50422,44,68.3,Male,No,College,Retail,1,0,No
+790,23.8,71642,35.4,58.2,Male,Yes,College,Retail,1,0,Yes
+791,30.3,65446,49.1,66,Female,No,College,Tech,1,0,No
+792,30.1,39054,35.3,62.3,Male,Yes,Graduate,Health,2,0,No
+793,40.1,34838,48.4,43,Female,Yes,College,Retail,2,0,Yes
+794,39.8,85116,30.8,62.3,Female,No,Graduate,Education,3,1,No
+795,22,48906,40.3,38.6,Female,Yes,College,Health,2,0,No
+796,30.7,67430,36.2,38.8,Female,Yes,College,Health,2,0,No
+797,48.8,67109,41.5,53.5,Male,Yes,College,Tech,1,0,No
+798,38.5,39999,33.2,52.3,Female,Yes,College,Education,0,1,Yes
+799,22.2,42548,34.1,50.7,Male,No,College,Health,1,1,No
+800,46.7,45965,39.6,65,Male,No,Graduate,Retail,0,0,No
+801,22,39253,50.8,50.8,Male,No,College,Tech,0,0,Yes
+802,16.3,33400,37.8,45.1,Male,No,College,Retail,0,0,No
+803,28,29315,37.2,51.7,Female,No,High School,Education,0,0,No
+804,46,53003,49.5,61.4,Female,No,Graduate,Health,0,0,No
+805,58.4,43104,43.4,42,Male,No,Graduate,Tech,1,1,No
+806,46.6,36344,39.2,48.5,Male,Yes,High School,Retail,0,0,No
+807,47,72521,44.5,55.1,Female,Yes,High School,Retail,1,1,No
+808,33.2,58834,36.5,57.4,Male,Yes,High School,Education,1,0,Yes
+809,35.2,42775,36.2,54.6,Male,No,College,Tech,0,0,No
+810,42.6,41918,36,41.6,Female,Yes,Graduate,Tech,2,0,No
+811,6.7,55568,42.6,54.4,Male,Yes,Graduate,Health,0,0,Yes
+812,36.9,55669,43.8,42,Female,No,College,Tech,0,0,No
+813,22.1,45334,36.1,44.3,Female,Yes,College,Tech,1,1,No
+814,30.9,47266,45.7,48.2,Male,No,High School,Tech,0,0,Yes
+815,31.7,65236,46.3,52.4,Male,Yes,Graduate,Education,0,1,Yes
+816,34.2,51055,38.9,54.9,Male,No,College,Education,0,1,No
+817,42.4,56851,38.9,59,Female,No,Graduate,Health,0,0,Yes
+818,33.4,38484,48.8,60.4,Male,Yes,Graduate,Tech,0,0,Yes
+819,42.3,50105,31.6,55.7,Male,Yes,Graduate,Education,0,0,No
+820,39.7,56181,39.5,54.1,Male,Yes,High School,Retail,1,0,No
+821,35.7,84977,39.8,34.9,Female,No,Graduate,Health,1,0,No
+822,30.6,64877,46.8,58.8,Female,Yes,Graduate,Health,1,0,Yes
+823,33.3,21153,41.2,54.1,Female,Yes,Graduate,Retail,0,0,No
+824,35.4,54572,46.1,64.6,Male,Yes,College,Education,1,1,Yes
+825,33.4,40792,36.5,39.8,Female,No,High School,Retail,0,0,No
+826,28.5,56848,47.3,60.1,Male,No,College,Retail,1,0,No
+827,2.5,62167,42.8,50.5,Female,Yes,High School,Tech,0,0,No
+828,55.4,40129,41.6,61.7,Male,Yes,Graduate,Health,2,1,Yes
+829,28.2,58482,39.9,53.2,Male,No,Graduate,Health,0,0,No
+830,19.6,57470,44.1,41.7,Male,Yes,High School,Tech,1,0,Yes
+831,38.3,71734,46.2,53.4,Female,No,College,Education,0,2,Yes
+832,51.9,66608,43.5,64.5,Female,No,High School,Tech,0,0,No
+833,34,103124,44.8,42.5,Male,Yes,High School,Education,1,0,No
+834,15.1,65699,38.4,55.2,Male,Yes,Graduate,Retail,2,0,No
+835,35.3,39801,44.3,44.2,Male,Yes,High School,Health,4,0,Yes
+836,22.1,54221,41.6,53.3,Male,No,Graduate,Retail,0,0,No
+837,40.1,49809,39.1,26.8,Male,Yes,High School,Health,0,0,Yes
+838,41.2,50137,35,40.8,Female,Yes,College,Education,0,0,Yes
+839,46.7,41244,34.7,71.3,Female,No,High School,Health,0,1,No
+840,50,56803,48.1,52.3,Female,No,High School,Tech,0,1,No
+841,50.7,33120,45.6,24,Male,No,College,Education,0,1,Yes
+842,19.7,68899,40.2,50.6,Male,No,College,Tech,0,0,Yes
+843,42.7,63563,45.6,56.2,Male,Yes,Graduate,Health,3,1,No
+844,33,56322,46.5,47.6,Male,Yes,Graduate,Education,0,0,Yes
+845,38.3,40349,35.2,42.6,Male,No,Graduate,Education,1,0,No
+846,26.6,9410,37.5,44.5,Male,No,Graduate,Tech,0,1,No
+847,38.1,67264,39.6,40.1,Male,Yes,Graduate,Tech,1,0,No
+848,22.3,51223,42.3,58.2,Female,Yes,High School,Tech,0,0,No
+849,36.9,34639,42.5,48,Male,No,College,Retail,0,1,Yes
+850,27.2,53452,38.1,49.4,Female,Yes,College,Health,1,1,No
+851,20.9,44641,45.2,42.2,Female,No,Graduate,Retail,0,1,No
+852,44.6,16831,35.7,37.4,Female,Yes,Graduate,Retail,1,0,Yes
+853,18.7,35897,36.5,48.5,Female,No,Graduate,Health,1,0,No
+854,39.6,57884,42.2,55.3,Female,Yes,High School,Retail,1,2,Yes
+855,32.1,31670,39.7,43.7,Female,No,College,Health,0,0,No
+856,45.4,87486,36.1,59.5,Female,Yes,High School,Tech,0,0,No
+857,26.4,71508,44.4,57.4,Female,No,High School,Education,0,1,No
+858,16.8,44092,36.7,40.6,Male,Yes,Graduate,Education,0,0,No
+859,43.6,59783,41.2,42.6,Female,Yes,Graduate,Health,3,0,Yes
+860,34.7,52903,44,53.2,Male,No,High School,Health,1,1,Yes
+861,25.8,44022,37,43.9,Male,No,Graduate,Education,0,0,No
+862,13.6,18169,47,50.1,Male,No,Graduate,Tech,0,0,No
+863,21.6,53366,30.7,47.6,Male,Yes,High School,Education,0,0,No
+864,37.2,48853,37.7,45.8,Female,Yes,Graduate,Tech,0,0,Yes
+865,49.1,63693,41.2,28.6,Female,Yes,Graduate,Tech,0,2,Yes
+866,28.6,33885,40.7,63.3,Male,Yes,Graduate,Tech,0,2,No
+867,43.9,51706,43.6,47.2,Female,No,High School,Health,0,1,Yes
+868,41.5,65174,38.1,43.2,Male,No,Graduate,Retail,0,0,No
+869,29,27733,41.2,45.2,Male,Yes,High School,Health,0,0,Yes
+870,25.2,32690,38.6,46.6,Female,No,College,Retail,0,1,Yes
+871,32.7,59184,39.7,46.1,Male,Yes,College,Tech,0,0,No
+872,34.8,40100,38.7,42.6,Female,Yes,Graduate,Health,0,0,Yes
+873,38.3,50050,39.7,55.1,Female,No,College,Retail,2,0,Yes
+874,50.2,61432,39.1,69.4,Male,No,College,Retail,2,0,No
+875,36.9,56270,37,51,Female,Yes,Graduate,Tech,0,0,No
+876,19.9,50803,42.3,30.7,Male,No,Graduate,Tech,0,0,Yes
+877,22.6,16609,40.2,55.2,Female,No,Graduate,Education,0,1,No
+878,47,37891,49,47.9,Male,Yes,High School,Retail,0,1,Yes
+879,39.7,41880,36.2,32.1,Male,No,Graduate,Health,0,0,No
+880,40.8,72369,33.9,32.2,Female,Yes,College,Tech,0,0,No
+881,26.7,48383,43.1,50.5,Male,No,Graduate,Health,0,0,No
+882,27.4,38459,47.3,31,Female,No,Graduate,Health,0,1,Yes
+883,36.5,63553,40.7,58.3,Male,Yes,Graduate,Health,0,1,No
+884,26.8,46883,36.6,45.9,Female,Yes,High School,Education,0,0,Yes
+885,34.9,56708,37.5,35.8,Male,No,High School,Health,0,0,Yes
+886,40,54911,45.7,66.1,Male,No,High School,Tech,1,1,No
+887,40.8,40762,31.7,42.6,Male,Yes,College,Health,1,1,No
+888,26.6,59163,36.9,36.2,Male,Yes,High School,Education,0,0,No
+889,29.7,64779,30.1,61.8,Female,No,Graduate,Education,0,1,No
+890,39.9,76657,42.6,72.7,Female,No,College,Retail,2,1,Yes
+891,9.1,48791,39.5,42.1,Female,Yes,Graduate,Education,0,0,No
+892,26.4,33049,28.6,54.3,Male,Yes,High School,Health,0,0,No
+893,19.8,61430,36,41,Female,Yes,High School,Education,2,1,No
+894,20.3,64957,50.1,53.2,Male,Yes,Graduate,Education,0,1,Yes
+895,51.5,18092,39.1,36.4,Female,No,Graduate,Tech,0,0,No
+896,35.5,71254,40.2,34.5,Male,Yes,College,Retail,0,2,No
+897,21.4,47016,35.3,48.9,Male,No,Graduate,Retail,0,0,No
+898,28.7,45849,46.7,42.4,Female,No,High School,Health,1,0,Yes
+899,21.7,47166,38.4,39,Female,No,Graduate,Health,0,0,No
+900,36.3,50307,42.9,42.7,Male,No,Graduate,Tech,0,0,No
+901,18.8,52157,38.2,40,Male,Yes,Graduate,Health,0,0,Yes
+902,24.9,56261,50.4,58.5,Male,No,College,Education,0,0,Yes
+903,31.4,74822,34.7,45.4,Female,No,College,Health,0,0,No
+904,47.8,35772,35.4,44.3,Male,No,Graduate,Health,0,0,Yes
+905,32.9,17613,36.7,50.8,Male,Yes,High School,Education,1,1,Yes
+906,32.7,61971,42.3,42.8,Male,Yes,Graduate,Tech,2,0,No
+907,32.8,89027,46,50.2,Female,Yes,High School,Health,2,1,Yes
+908,22.7,33750,36.1,68.2,Male,No,High School,Education,0,0,Yes
+909,47.4,72286,34.4,39.4,Female,Yes,Graduate,Retail,1,0,No
+910,27.8,46744,39.1,36.9,Female,No,Graduate,Tech,1,0,Yes
+911,27.1,28789,44.4,42,Female,Yes,Graduate,Retail,0,0,Yes
+912,15.1,39189,45.7,60.2,Female,No,High School,Tech,0,0,No
+913,16.2,47988,48.3,38.9,Female,No,High School,Health,0,0,Yes
+914,29,33993,42.5,37.1,Male,No,Graduate,Health,0,0,No
+915,45,51589,34.2,40.4,Male,Yes,College,Tech,0,0,No
+916,31.2,47005,44.3,48.8,Female,No,College,Retail,1,1,No
+917,32.9,66455,36.1,53.2,Male,Yes,Graduate,Education,0,0,No
+918,31.7,47556,42.2,58,Female,Yes,College,Retail,1,0,No
+919,37.6,67856,37.2,51.5,Female,Yes,Graduate,Retail,0,2,No
+920,47.3,35432,41.6,54.5,Male,Yes,College,Tech,0,1,Yes
+921,18.1,56820,36.4,40.7,Female,No,College,Health,0,0,Yes
+922,46.3,57453,44.9,61.3,Female,No,High School,Health,0,0,No
+923,44.4,63705,47.1,53.8,Female,Yes,College,Tech,1,1,No
+924,29,31010,40.9,28.4,Male,Yes,College,Tech,0,0,Yes
+925,41.2,55950,45.2,60.3,Male,Yes,College,Tech,3,0,Yes
+926,30.5,63918,39.7,45,Female,Yes,High School,Health,0,2,No
+927,31.9,38398,35.9,60.4,Female,Yes,High School,Tech,2,0,Yes
+928,27.4,39849,35.4,41.9,Male,No,High School,Tech,1,0,No
+929,43.4,32574,46.4,59.3,Male,No,Graduate,Tech,1,0,No
+930,32.7,49076,31.8,52.7,Female,No,College,Retail,1,2,No
+931,24.5,20242,46.2,48.3,Female,No,College,Tech,0,0,Yes
+932,29.5,32473,38.5,48,Male,Yes,High School,Tech,0,0,Yes
+933,43,45792,49.6,53.9,Male,No,College,Retail,0,0,Yes
+934,46.5,46828,38,39.5,Male,Yes,Graduate,Tech,0,0,No
+935,29.4,64960,43.2,75.9,Male,No,High School,Retail,1,1,No
+936,38.1,54648,46.1,42.2,Female,No,College,Health,1,0,Yes
+937,31.4,62433,39.8,51.7,Male,No,Graduate,Health,0,0,No
+938,23.8,24850,43.4,75.1,Male,Yes,College,Health,1,0,Yes
+939,43.7,52414,41.2,41.8,Male,No,High School,Education,0,1,No
+940,28.8,42337,36,69.8,Male,Yes,Graduate,Retail,1,1,Yes
+941,41,23638,38.5,44.4,Female,No,College,Retail,1,2,Yes
+942,41.7,94624,37.3,43.5,Male,No,High School,Tech,0,1,No
+943,24.6,46847,38.3,43.6,Female,No,College,Education,0,0,Yes
+944,30.4,63702,51,45.4,Female,No,High School,Health,0,0,Yes
+945,57.9,42249,45.5,41.1,Female,No,Graduate,Retail,1,0,No
+946,12,51833,36.1,65.8,Male,Yes,Graduate,Education,2,2,No
+947,23.6,42430,45.1,57.6,Male,Yes,High School,Education,0,1,No
+948,24.3,53616,35.1,57.6,Female,Yes,Graduate,Retail,1,0,No
+949,25.6,29963,34.4,28.1,Male,No,High School,Education,0,0,No
+950,35.3,57482,42.5,24.4,Female,No,College,Education,0,0,No
+951,40.8,56524,41.1,52.4,Female,Yes,College,Education,1,2,Yes
+952,43.9,45733,37.2,41.9,Male,No,College,Health,1,0,Yes
+953,50.8,43355,43.1,30.9,Female,Yes,High School,Tech,1,0,Yes
+954,23.3,43076,28,60.6,Male,No,College,Retail,0,0,No
+955,45,38818,42.6,32.6,Male,Yes,Graduate,Retail,1,0,No
+956,36.7,49513,36,38.2,Male,No,High School,Retail,0,0,No
+957,43,50300,37.5,44.6,Male,No,College,Retail,1,0,No
+958,30.6,32593,39.6,42,Female,Yes,High School,Health,1,0,Yes
+959,49.5,57644,41.7,66.8,Female,Yes,High School,Health,1,0,Yes
+960,37.9,39155,47.7,43.7,Female,No,College,Tech,0,0,Yes
+961,43.2,43538,34.1,63.6,Male,No,Graduate,Health,0,0,Yes
+962,30.4,55174,43.8,47,Female,No,High School,Education,0,2,Yes
+963,28.5,42384,49.4,43.7,Male,No,College,Retail,0,1,No
+964,31.5,52157,40.3,49.3,Female,Yes,Graduate,Education,0,0,Yes
+965,38.1,66678,38.1,52.5,Female,No,High School,Education,0,0,No
+966,44.6,58359,40,66.5,Male,No,College,Health,1,1,No
+967,45,62009,40.8,47.8,Male,Yes,High School,Education,1,0,Yes
+968,27.1,22090,44.6,56.8,Male,Yes,Graduate,Health,0,1,No
+969,23.2,66175,48.1,49.1,Female,No,Graduate,Health,0,0,Yes
+970,52.4,38479,28.1,67.4,Female,No,Graduate,Education,1,0,No
+971,23.2,32426,38.1,36.8,Female,Yes,High School,Education,1,0,Yes
+972,28,54729,37.6,48.8,Female,No,Graduate,Education,2,0,Yes
+973,37.3,63834,43.2,49.7,Female,Yes,College,Retail,2,1,No
+974,47.6,44532,40.9,70,Female,No,Graduate,Health,2,0,No
+975,28.2,58145,34.8,26,Female,No,Graduate,Health,0,0,No
+976,35.5,46879,45,62.1,Male,Yes,Graduate,Tech,0,0,No
+977,46.6,75390,40.4,36.5,Male,Yes,Graduate,Health,2,0,Yes
+978,29.2,46134,20.6,50.7,Female,No,High School,Education,0,0,No
+979,30.5,54822,46.2,36.8,Female,Yes,Graduate,Education,0,1,No
+980,25,33617,45.4,46.2,Male,Yes,Graduate,Education,0,1,Yes
+981,37.4,38628,39,57.8,Female,No,Graduate,Health,1,1,No
+982,26.6,68732,37.5,41.8,Male,No,College,Health,0,1,Yes
+983,31.7,55003,41.7,76.8,Male,No,Graduate,Retail,0,1,No
+984,61.9,40424,39.7,42.8,Female,No,High School,Education,1,0,Yes
+985,40.9,71608,36,34.5,Male,No,Graduate,Health,0,0,No
+986,39.7,44678,46.8,49.8,Male,Yes,High School,Health,0,1,No
+987,24.6,29801,46.8,36.9,Female,Yes,High School,Tech,1,1,No
+988,29.7,52023,41.9,32.3,Female,Yes,College,Education,1,0,No
+989,32.3,63801,33.7,58.5,Male,No,College,Tech,0,1,No
+990,40.4,43945,42.5,60.2,Male,No,High School,Tech,0,1,No
+991,22.4,18352,45.8,69.1,Male,Yes,College,Retail,0,1,No
+992,19.7,53566,39.4,45.6,Male,Yes,High School,Tech,1,0,Yes
+993,47.6,36620,35.8,82.7,Male,No,Graduate,Retail,0,2,Yes
+994,25.5,57300,44,45.5,Male,No,Graduate,Tech,0,2,No
+995,53.9,68900,38.6,66.1,Male,Yes,High School,Tech,2,0,No
+996,28.1,38288,37.8,37.4,Female,No,College,Health,0,1,No
+997,28.9,63365,32.9,67.1,Female,No,High School,Tech,0,0,No
+998,51,60757,39,47.9,Male,Yes,College,Education,1,0,Yes
+999,46.9,52320,45.1,32.1,Female,Yes,College,Health,0,0,Yes
+1000,35.2,41806,38.7,51.2,Female,Yes,Graduate,Retail,1,0,No
+1001,51.7,60109,41.9,56.1,Male,Yes,Graduate,Education,4,1,No
+1002,52.9,66446,41.4,50.8,Male,Yes,High School,Retail,0,3,No
+1003,25.8,62225,43.1,42.7,Female,Yes,High School,Health,1,0,Yes
+1004,36.2,68931,40,50.2,Male,No,Graduate,Education,0,0,No
+1005,31.9,51881,37,32,Female,Yes,College,Health,0,1,Yes
+1006,35.3,20843,42.1,30,Male,No,College,Tech,0,0,No
+1007,43.8,59089,40.8,32.4,Male,Yes,High School,Retail,1,0,Yes
+1008,37.5,58940,46.9,36.8,Male,Yes,Graduate,Retail,0,1,Yes
+1009,54.5,57942,35,54.1,Male,No,Graduate,Education,1,2,No
+1010,36.3,53779,44.1,53.1,Male,Yes,High School,Retail,0,0,Yes
+1011,39,41748,36.1,40.9,Female,Yes,College,Tech,1,1,Yes
+1012,45.1,77438,39.9,55.6,Female,Yes,Graduate,Tech,2,0,No
+1013,48.3,50417,47.7,59.8,Male,No,College,Education,1,1,Yes
+1014,35.9,84338,37.5,47.8,Female,Yes,Graduate,Education,1,0,Yes
+1015,34.7,42376,42.7,56.1,Female,Yes,Graduate,Education,0,2,No
+1016,21.7,70639,37.4,58.1,Female,Yes,Graduate,Tech,0,0,No
+1017,46.8,19243,41,58.2,Male,No,Graduate,Education,1,1,No
+1018,27.8,55277,28.2,66.5,Male,No,Graduate,Tech,0,0,No
+1019,23.3,35480,47.2,50.2,Female,Yes,High School,Education,0,0,No
+1020,42.6,42980,35.5,43.3,Male,Yes,Graduate,Tech,1,0,No
+1021,28.7,37807,43.1,46.3,Male,Yes,Graduate,Education,0,0,No
+1022,35.2,69157,37,56.7,Male,No,High School,Education,0,2,No
+1023,45,46068,41.1,38.6,Male,No,Graduate,Retail,0,0,Yes
+1024,36.4,22467,41.3,54.4,Male,No,High School,Retail,0,0,Yes
+1025,39.8,60163,42.1,47.3,Male,No,High School,Education,0,0,No
+1026,39.2,59847,41.2,51.7,Female,No,Graduate,Tech,1,0,No
+1027,39.2,60570,36.1,44.9,Male,No,High School,Education,1,0,No
+1028,24.2,51927,37.4,28.8,Male,Yes,College,Tech,0,0,No
+1029,30.4,53645,40.6,57.7,Female,No,College,Tech,0,0,No
+1030,40,63139,40.6,37.5,Male,Yes,High School,Retail,1,1,Yes
+1031,18.9,50405,41,46.4,Female,Yes,Graduate,Health,0,0,No
+1032,72.8,13350,46.9,47.2,Female,Yes,Graduate,Education,5,0,Yes
+1033,9.6,38795,41,61.8,Male,Yes,Graduate,Tech,1,0,Yes
+1034,41.5,56095,48.5,63.8,Female,Yes,High School,Tech,1,0,No
+1035,19.7,42937,31.6,50.2,Male,No,Graduate,Tech,1,0,Yes
+1036,42.1,40844,37.1,35.7,Female,Yes,High School,Tech,0,0,No
+1037,58,65692,34.7,46.6,Female,No,College,Education,1,0,No
+1038,41.8,36023,37.6,47,Male,No,College,Education,0,0,No
+1039,37.6,45661,40.4,40.9,Female,No,College,Health,0,0,Yes
+1040,43.6,68972,39.4,46.4,Male,Yes,High School,Retail,2,1,No
+1041,42.7,50442,43.9,57.8,Male,Yes,High School,Education,0,0,Yes
+1042,25.7,40474,38.7,46.6,Female,Yes,High School,Retail,0,1,Yes
+1043,41.4,79076,43.3,46.4,Male,Yes,College,Health,0,0,No
+1044,24.9,50061,43.5,38.7,Female,No,High School,Health,0,0,Yes
+1045,19.6,63429,38.7,46.8,Male,No,Graduate,Health,0,1,No
+1046,40.7,40957,40.6,56.5,Male,Yes,Graduate,Health,0,0,No
+1047,22,55524,39.3,62.2,Male,Yes,Graduate,Education,0,0,Yes
+1048,51,30693,39.7,42.7,Male,No,College,Health,0,0,No
+1049,36,67405,34.3,47.8,Female,Yes,Graduate,Tech,0,1,No
+1050,47.4,52399,42.5,60.6,Female,No,High School,Tech,0,0,No
+1051,23,55031,40.3,44.2,Male,Yes,Graduate,Tech,0,0,No
+1052,27.8,63078,33.1,47.3,Male,Yes,High School,Tech,1,0,Yes
+1053,42,39315,40,48.5,Male,No,High School,Health,2,0,No
+1054,63.3,75728,39.2,45.8,Female,Yes,Graduate,Education,2,1,No
+1055,33.6,44155,38.8,42.7,Male,Yes,College,Health,0,0,Yes
+1056,24.9,71308,40.8,58.1,Female,Yes,College,Tech,0,0,No
+1057,31.5,45702,44.7,60.1,Male,No,Graduate,Retail,0,1,Yes
+1058,51.7,65038,40.7,66.4,Female,Yes,College,Retail,1,1,No
+1059,27.8,42907,32.7,41.2,Female,No,High School,Health,0,1,No
+1060,25.7,61913,46.2,50.6,Female,No,High School,Education,1,1,Yes
+1061,45.2,55702,45.9,42.5,Female,Yes,High School,Education,0,0,Yes
+1062,30.4,42779,44.4,53.6,Female,Yes,Graduate,Retail,0,0,Yes
+1063,24.7,54506,37.6,53.8,Male,Yes,High School,Education,0,0,Yes
+1064,26.9,67048,45.7,50.2,Male,Yes,Graduate,Education,1,0,No
+1065,46.8,72971,43.4,41.9,Female,No,High School,Education,0,0,No
+1066,40.1,67760,43.2,44.4,Female,No,Graduate,Health,1,1,Yes
+1067,37.4,32913,44.2,45.2,Female,Yes,College,Tech,0,1,No
+1068,29.3,49151,43.2,56.9,Male,No,High School,Retail,0,0,Yes
+1069,29.1,56991,40.5,38.2,Female,No,College,Retail,0,0,No
+1070,21.6,71547,32.4,43.3,Female,No,High School,Education,0,0,No
+1071,26.5,35145,37.3,34.5,Female,No,Graduate,Tech,1,0,No
+1072,37,49718,41,40.1,Female,Yes,High School,Retail,1,0,Yes
+1073,29.4,53025,44.2,58.2,Male,Yes,Graduate,Tech,1,0,No
+1074,40.9,66624,41.8,56.9,Male,Yes,College,Education,1,1,Yes
+1075,52.2,55683,41.6,49.7,Male,Yes,Graduate,Education,2,0,Yes
+1076,50.8,52843,46.4,18.6,Female,Yes,Graduate,Education,0,2,No
+1077,31.5,72234,43,55.1,Male,No,High School,Retail,0,0,Yes
+1078,40.8,35086,44.1,40.7,Female,Yes,College,Education,0,2,No
+1079,40.5,40544,32.8,50.1,Female,Yes,College,Retail,1,0,No
+1080,24.9,28424,44.7,51,Female,Yes,High School,Health,1,2,No
+1081,45.5,42375,36.1,65.3,Female,No,High School,Education,2,0,Yes
+1082,38.1,36570,32.1,55.1,Female,No,Graduate,Tech,1,0,No
+1083,45.8,39254,42.9,49.8,Male,Yes,College,Retail,2,1,Yes
+1084,43,58470,44.3,55.5,Male,No,College,Tech,0,0,Yes
+1085,32.5,44175,40.4,80.5,Female,Yes,High School,Health,3,0,Yes
+1086,28.7,68680,44.6,52.4,Female,Yes,College,Education,1,1,Yes
+1087,23.8,62190,44.1,59.6,Female,No,Graduate,Education,0,0,No
+1088,28.6,55826,38.6,60,Female,No,College,Education,0,0,No
+1089,24.1,48313,41.9,51.4,Male,Yes,Graduate,Health,0,0,Yes
+1090,36.6,30875,40.5,51.1,Female,Yes,Graduate,Education,1,2,Yes
+1091,45.6,58529,28.5,53.5,Female,Yes,Graduate,Health,2,0,Yes
+1092,28,49522,48.1,46.8,Male,No,High School,Health,0,0,No
+1093,24.1,56060,44,53.4,Male,No,Graduate,Tech,1,0,No
+1094,43.4,86458,37.1,51.6,Female,Yes,High School,Retail,0,1,Yes
+1095,22.5,61601,43.6,59,Male,No,College,Education,0,0,No
+1096,35,64866,38,38.5,Male,Yes,High School,Health,0,0,No
+1097,40.2,45418,44.3,57.2,Female,No,College,Tech,1,1,Yes
+1098,49.2,33039,45.1,48.9,Female,Yes,Graduate,Retail,0,0,No
+1099,29.4,23868,41.9,54.8,Female,No,College,Tech,0,0,Yes
+1100,34.3,54922,40.9,49.4,Male,Yes,Graduate,Education,2,1,No
+1101,26.3,19590,42.3,59.7,Male,Yes,High School,Retail,0,0,Yes
+1102,28.2,47509,36.1,48.9,Female,No,Graduate,Retail,1,2,Yes
+1103,30.3,39041,39.6,24,Male,Yes,College,Retail,0,1,Yes
+1104,49.9,58494,39.7,49.3,Male,Yes,Graduate,Tech,0,0,Yes
+1105,29.3,47159,42.8,51.2,Female,Yes,High School,Education,1,0,Yes
+1106,27.3,62393,36.1,54.4,Male,Yes,High School,Education,0,1,No
+1107,25.4,45387,39.4,50,Female,No,High School,Education,0,0,Yes
+1108,29.3,36593,41.4,63.8,Female,No,Graduate,Education,1,0,Yes
+1109,39.9,59318,40.5,41.3,Male,Yes,High School,Health,0,2,No
+1110,24.8,55214,33.2,50.9,Male,Yes,Graduate,Tech,0,0,No
+1111,7.9,44479,38,61.6,Female,No,High School,Tech,0,0,No
+1112,28.1,62163,37.4,41.7,Male,Yes,College,Education,0,0,No
+1113,31.9,83596,42,53.8,Male,No,High School,Tech,0,0,No
+1114,54,41114,37.6,38.9,Male,Yes,Graduate,Education,0,0,Yes
+1115,28.7,64307,41.1,45.7,Male,No,College,Tech,0,0,No
+1116,24.8,73621,37.6,54.1,Male,Yes,Graduate,Tech,0,1,No
+1117,36.1,51391,45.6,45.6,Male,No,Graduate,Education,1,0,Yes
+1118,32.6,71064,30,51.7,Female,No,College,Retail,1,0,Yes
+1119,52.8,65910,48.2,18.8,Female,No,College,Education,0,0,No
+1120,35.9,52375,38.2,50.9,Male,Yes,Graduate,Health,0,0,No
+1121,41.5,31746,37.9,48.3,Male,Yes,College,Education,0,0,No
+1122,48.2,42679,41,63.7,Male,No,College,Education,0,1,No
+1123,52.8,43200,41.6,54.1,Female,Yes,High School,Retail,2,0,Yes
+1124,39.8,66419,37.2,39.7,Male,No,Graduate,Health,0,1,No
+1125,40.1,62687,36.4,62.1,Female,Yes,Graduate,Tech,3,0,Yes
+1126,30.4,59293,45.1,28.8,Female,Yes,College,Education,0,1,Yes
+1127,36.7,42718,52.2,55.1,Female,Yes,College,Education,0,2,No
+1128,12.6,80541,34,57.9,Female,Yes,Graduate,Retail,0,0,Yes
+1129,34,30936,47.3,69.9,Male,Yes,College,Retail,0,2,Yes
+1130,38,32683,35.6,48,Male,Yes,Graduate,Education,1,2,No
+1131,24.2,50199,42.3,41.1,Male,Yes,College,Tech,0,1,No
+1132,33.6,49324,45.5,41.4,Male,Yes,College,Retail,1,1,Yes
+1133,48.5,13547,43.3,60.7,Female,No,High School,Education,2,1,No
+1134,21.1,35446,48,68.2,Male,No,High School,Health,0,0,No
+1135,28.7,41757,38.3,57.2,Female,No,Graduate,Education,0,1,No
+1136,67.9,66221,44.2,71.2,Female,No,College,Health,2,2,Yes
+1137,34.8,45094,38.2,73,Female,Yes,College,Retail,0,0,Yes
+1138,34.3,72830,31.7,54.7,Female,No,Graduate,Retail,0,0,No
+1139,45.5,51307,34.2,52.3,Female,No,High School,Tech,0,0,Yes
+1140,46.9,55875,30.3,58.6,Male,Yes,Graduate,Education,1,0,Yes
+1141,24.9,70098,43.5,38.8,Male,Yes,Graduate,Retail,0,0,No
+1142,9.9,55365,35.5,36.5,Female,No,College,Retail,1,0,Yes
+1143,36.8,49427,44.1,41.4,Female,Yes,Graduate,Health,1,0,Yes
+1144,17.6,43186,41.7,36.5,Male,No,High School,Tech,0,0,No
+1145,44.8,58569,46,61.8,Female,Yes,College,Health,2,1,Yes
+1146,16.1,67028,36.6,41.7,Male,Yes,College,Tech,0,0,No
+1147,41.3,46298,38.3,34.8,Female,Yes,High School,Education,0,0,No
+1148,21.3,77282,42.9,59.4,Male,No,College,Education,0,0,Yes
+1149,36.2,44064,42.7,51.6,Female,No,High School,Retail,0,1,No
+1150,39.6,37527,48.9,61.8,Female,No,College,Tech,0,0,Yes
+1151,41,46388,45.3,38.7,Female,Yes,Graduate,Health,0,1,No
+1152,53,55546,40.1,57.6,Female,No,College,Tech,0,0,Yes
+1153,30.1,29473,31.1,46.8,Female,Yes,College,Retail,0,0,Yes
+1154,29.6,56697,40.2,44.5,Male,Yes,College,Tech,2,3,Yes
+1155,34.7,60326,34.8,42,Male,Yes,Graduate,Education,0,0,Yes
+1156,20.9,51591,39.7,39.7,Female,Yes,High School,Tech,0,0,No
+1157,40.8,67199,34.1,59,Female,No,High School,Health,1,0,No
+1158,21.2,32444,42.3,42.9,Female,No,College,Health,0,0,Yes
+1159,42.7,57421,32.2,48.5,Female,No,High School,Retail,1,0,Yes
+1160,30.4,54985,42,52.9,Female,No,College,Health,0,1,No
+1161,34.2,61537,42.3,51.9,Female,No,High School,Tech,0,0,No
+1162,44.4,57916,42.8,62,Female,No,College,Education,0,0,No
+1163,33.9,22373,41,64.1,Female,No,College,Tech,1,0,No
+1164,30.6,43120,43.8,68.1,Male,No,Graduate,Retail,1,1,Yes
+1165,29.6,35828,40.7,41.1,Female,No,College,Education,0,0,No
+1166,34.1,56596,43.9,30.2,Male,Yes,High School,Retail,0,0,No
+1167,33.7,61434,37.2,48.1,Female,No,College,Health,1,0,No
+1168,36.2,44790,41.4,53,Male,No,College,Education,0,0,No
+1169,27.2,36622,40.4,37.6,Male,Yes,College,Health,0,0,No
+1170,38.9,62884,41.9,54.2,Female,Yes,College,Health,0,0,Yes
+1171,32.2,-7963,46.1,42.8,Female,Yes,Graduate,Education,1,0,Yes
+1172,37.3,57305,41.2,55.8,Male,Yes,High School,Health,3,0,Yes
+1173,32.7,53198,34.6,56.2,Male,No,College,Retail,0,1,No
+1174,44.2,60412,45.6,34.4,Male,No,College,Retail,1,0,Yes
+1175,47,32053,39.2,28.3,Female,No,College,Retail,0,0,No
+1176,43.6,52796,38,46.4,Female,No,Graduate,Tech,0,0,Yes
+1177,49.6,28594,35.7,56,Male,Yes,Graduate,Education,0,3,No
+1178,37.5,49854,38,64.2,Male,Yes,College,Health,2,1,Yes
+1179,31.6,58098,41,42.5,Female,No,Graduate,Tech,0,0,No
+1180,44.8,54225,38.5,53.9,Female,No,College,Education,0,0,Yes
+1181,34.4,51021,41.7,59.4,Female,Yes,High School,Retail,2,0,Yes
+1182,38.1,16211,47.1,49.1,Female,Yes,College,Education,0,2,No
+1183,30.4,59741,45.9,41.3,Female,No,High School,Tech,0,1,Yes
+1184,39.5,50402,42.1,48.5,Male,Yes,Graduate,Tech,1,0,Yes
+1185,50.3,36360,39.1,41.1,Female,No,Graduate,Retail,0,0,No
+1186,28.1,66056,42.8,59.7,Female,Yes,College,Education,1,2,No
+1187,34.2,62066,35.3,54.7,Female,No,College,Tech,0,0,No
+1188,32.6,45703,35.7,39.9,Female,Yes,College,Education,0,0,No
+1189,42.9,54486,42.6,52.4,Male,Yes,Graduate,Tech,0,0,Yes
+1190,25.5,89397,44.1,32.4,Male,No,Graduate,Tech,0,0,Yes
+1191,38.3,19058,44,49.9,Male,Yes,Graduate,Tech,2,0,No
+1192,41.9,73173,39.4,69.2,Male,Yes,College,Education,2,1,Yes
+1193,49.7,44115,50.6,56,Female,Yes,College,Education,1,1,Yes
+1194,36.5,56387,47.4,58.9,Male,No,Graduate,Health,1,0,Yes
+1195,35.7,58332,45.7,45.8,Female,Yes,High School,Health,0,0,Yes
+1196,27.6,81705,48.3,42.9,Male,Yes,College,Education,2,0,Yes
+1197,40.3,36733,42.1,45.6,Female,Yes,College,Health,0,1,No
+1198,21.7,54117,41,49.1,Male,No,College,Tech,0,0,No
+1199,25.8,43849,42.6,35.7,Female,No,College,Retail,0,0,Yes
+1200,35.9,45939,29.7,47.3,Male,No,College,Retail,0,0,No
