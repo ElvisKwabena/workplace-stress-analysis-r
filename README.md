@@ -1,4 +1,4 @@
-# Modeling Workplace Stress and Health Behaviors Using R
+# Modelling Workplace Stress and Health Behaviors Using R
 
 This project, completed as part of STAT 464: Statistical Computing with R at the University of Ghana, explores how demographic and occupational factors influence stress levels, health behaviours, and healthcare utilisation.
 
